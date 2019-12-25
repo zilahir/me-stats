@@ -1,15 +1,15 @@
-import React from 'react';
+import React from 'react'
 
 function App() {
-  return (
+	return (
 		<div className="App">
-				<div>
-					<p>
-						lofasz
-					</p>
-				</div>
+			<div>
+				<p>
+					lofasz
+				</p>
+			</div>
 		</div>
-	);
+	)
 }
 
-export default App;
+export default App
