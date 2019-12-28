@@ -17,4 +17,13 @@ export const watchHistory = {
 		watchHistory.list.movies, c => new Date(c.last_watched_at).getFullYear()
 			=== currentDate.getFullYear(),
 	),
+	getShowPlayCount() {
+		return this.getShowHistory().map(curr => (
+			{
+				...curr,
+				name: curr.show.title,
+				value: curr.plays,
+			}
+		))
+	},
 }
