@@ -65,6 +65,11 @@ const Main = () => {
 						<ColoredLabel key={`block-${index}`} color={COLORS[index % COLORS.length]}>
 							<p>
 								{thisYearShow[index].name}
+								<smalL>
+									{
+										`(${thisYearShow[index].value})`
+									}
+								</smalL>
 							</p>
 						</ColoredLabel>
 					))
