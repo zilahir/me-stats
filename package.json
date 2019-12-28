@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^7.2.1",
     "install": "^0.13.0",
     "lastfm-api-client": "^0.1.0",
+    "lodash": "^4.17.15",
     "npm": "^6.13.4",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
