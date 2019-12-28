@@ -1,4 +1,4 @@
-import { filter } from 'lodash'
+import { filter, orderBy } from 'lodash'
 
 import movies from '../movies.json'
 import shows from '../shows.json'
@@ -18,12 +18,13 @@ export const watchHistory = {
 			=== currentDate.getFullYear(),
 	),
 	getShowPlayCount() {
-		return this.getShowHistory().map(curr => (
+		const arr = this.getShowHistory().map(curr => (
 			{
 				...curr,
 				name: curr.show.title,
 				value: curr.plays,
 			}
 		))
+		return orderBy(arr, ['plays'], ['desc'])
 	},
 }

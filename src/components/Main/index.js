@@ -36,20 +36,19 @@ const ColoredLabel = styled.div`
 
 const Main = () => {
 	const thisYearShow = watchHistory.getShowPlayCount()
-	console.debug('thisYearShow', thisYearShow.slice(0, 10))
 
 	return (
 		<div className={styles.chartContainer}>
 			<PieChart
-				width={800}
+				width={400}
 				height={400}
 			>
 				<Pie
 					data={thisYearShow.slice(0, 10)}
-					cx={120}
+					cx={180}
 					cy={200}
-					innerRadius={30}
-					outerRadius={80}
+					innerRadius={60}
+					outerRadius={120}
 					fill="#8884d8"
 					paddingAngle={0}
 					dataKey="value"
@@ -63,7 +62,7 @@ const Main = () => {
 			<div>
 				{
 					thisYearShow.slice(0, 10).map((curr, index) => (
-						<ColoredLabel color={COLORS[index % COLORS.length]}>
+						<ColoredLabel key={`block-${index}`} color={COLORS[index % COLORS.length]}>
 							<p>
 								{thisYearShow[index].name}
 							</p>
