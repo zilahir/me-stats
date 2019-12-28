@@ -1,0 +1,3893 @@
+[{
+    "plays": 3,
+    "last_watched_at": "2019-09-30T18:04:00.000Z",
+    "last_updated_at": "2019-11-10T17:05:10.000Z",
+    "movie": {
+        "title": "Back to the Future",
+        "year": 1985,
+        "ids": {
+            "trakt": 74,
+            "slug": "back-to-the-future-1985",
+            "imdb": "tt0088763",
+            "tmdb": 105
+        }
+    }
+}, {
+    "plays": 2,
+    "last_watched_at": "2017-01-17T01:24:39.000Z",
+    "last_updated_at": "2017-01-17T01:24:39.000Z",
+    "movie": {
+        "title": "Back to the Future Part II",
+        "year": 1989,
+        "ids": {
+            "trakt": 130,
+            "slug": "back-to-the-future-part-ii-1989",
+            "imdb": "tt0096874",
+            "tmdb": 165
+        }
+    }
+}, {
+    "plays": 2,
+    "last_watched_at": "2016-10-19T14:47:00.000Z",
+    "last_updated_at": "2016-10-20T13:47:43.000Z",
+    "movie": {
+        "title": "The Terminal",
+        "year": 2004,
+        "ids": {
+            "trakt": 472,
+            "slug": "the-terminal-2004",
+            "imdb": "tt0362227",
+            "tmdb": 594
+        }
+    }
+}, {
+    "plays": 2,
+    "last_watched_at": "2016-10-06T12:11:02.000Z",
+    "last_updated_at": "2016-10-06T12:11:02.000Z",
+    "movie": {
+        "title": "Requiem for a Dream",
+        "year": 2000,
+        "ids": {
+            "trakt": 517,
+            "slug": "requiem-for-a-dream-2000",
+            "imdb": "tt0180093",
+            "tmdb": 641
+        }
+    }
+}, {
+    "plays": 2,
+    "last_watched_at": "2016-12-14T13:46:12.000Z",
+    "last_updated_at": "2016-12-14T13:46:12.000Z",
+    "movie": {
+        "title": "Home Alone",
+        "year": 1990,
+        "ids": {
+            "trakt": 614,
+            "slug": "home-alone-1990",
+            "imdb": "tt0099785",
+            "tmdb": 771
+        }
+    }
+}, {
+    "plays": 2,
+    "last_watched_at": "2003-10-24T00:00:00.000Z",
+    "last_updated_at": "2016-11-08T08:38:47.000Z",
+    "movie": {
+        "title": "Scary Movie 3",
+        "year": 2003,
+        "ids": {
+            "trakt": 2503,
+            "slug": "scary-movie-3-2003",
+            "imdb": "tt0306047",
+            "tmdb": 4256
+        }
+    }
+}, {
+    "plays": 2,
+    "last_watched_at": "2017-04-08T22:15:00.000Z",
+    "last_updated_at": "2017-04-09T09:20:04.000Z",
+    "movie": {
+        "title": "American Gangster",
+        "year": 2007,
+        "ids": {
+            "trakt": 2913,
+            "slug": "american-gangster-2007",
+            "imdb": "tt0765429",
+            "tmdb": 4982
+        }
+    }
+}, {
+    "plays": 2,
+    "last_watched_at": "2016-11-06T09:38:00.000Z",
+    "last_updated_at": "2016-11-08T08:38:27.000Z",
+    "movie": {
+        "title": "I Am Legend",
+        "year": 2007,
+        "ids": {
+            "trakt": 3642,
+            "slug": "i-am-legend-2007",
+            "imdb": "tt0480249",
+            "tmdb": 6479
+        }
+    }
+}, {
+    "plays": 2,
+    "last_watched_at": "2017-11-25T11:22:10.000Z",
+    "last_updated_at": "2017-11-25T11:22:10.000Z",
+    "movie": {
+        "title": "The Happening",
+        "year": 2008,
+        "ids": {
+            "trakt": 4251,
+            "slug": "the-happening-2008",
+            "imdb": "tt0949731",
+            "tmdb": 8645
+        }
+    }
+}, {
+    "plays": 2,
+    "last_watched_at": "2016-10-20T13:47:56.000Z",
+    "last_updated_at": "2016-10-20T13:47:56.000Z",
+    "movie": {
+        "title": "Yes Man",
+        "year": 2008,
+        "ids": {
+            "trakt": 5414,
+            "slug": "yes-man-2008",
+            "imdb": "tt1068680",
+            "tmdb": 10201
+        }
+    }
+}, {
+    "plays": 2,
+    "last_watched_at": "2019-10-15T18:02:00.000Z",
+    "last_updated_at": "2019-11-10T17:02:24.000Z",
+    "movie": {
+        "title": "Django",
+        "year": 1966,
+        "ids": {
+            "trakt": 5934,
+            "slug": "django-1966",
+            "imdb": "tt0060315",
+            "tmdb": 10772
+        }
+    }
+}, {
+    "plays": 2,
+    "last_watched_at": "2017-11-24T13:21:00.000Z",
+    "last_updated_at": "2017-11-25T11:21:50.000Z",
+    "movie": {
+        "title": "Knowing",
+        "year": 2009,
+        "ids": {
+            "trakt": 8207,
+            "slug": "knowing-2009",
+            "imdb": "tt0448011",
+            "tmdb": 13811
+        }
+    }
+}, {
+    "plays": 2,
+    "last_watched_at": "2016-10-02T19:15:04.000Z",
+    "last_updated_at": "2016-10-02T19:15:04.000Z",
+    "movie": {
+        "title": "Loft",
+        "year": 2008,
+        "ids": {
+            "trakt": 10916,
+            "slug": "loft-2008",
+            "imdb": "tt0926762",
+            "tmdb": 17845
+        }
+    }
+}, {
+    "plays": 2,
+    "last_watched_at": "2017-08-13T18:19:47.000Z",
+    "last_updated_at": "2017-08-13T18:19:47.000Z",
+    "movie": {
+        "title": "The Social Network",
+        "year": 2010,
+        "ids": {
+            "trakt": 24279,
+            "slug": "the-social-network-2010",
+            "imdb": "tt1285016",
+            "tmdb": 37799
+        }
+    }
+}, {
+    "plays": 2,
+    "last_watched_at": "2018-01-02T13:24:00.000Z",
+    "last_updated_at": "2018-01-03T11:24:49.000Z",
+    "movie": {
+        "title": "Devil",
+        "year": 2010,
+        "ids": {
+            "trakt": 29781,
+            "slug": "devil-2010",
+            "imdb": "tt1314655",
+            "tmdb": 44040
+        }
+    }
+}, {
+    "plays": 2,
+    "last_watched_at": "2017-07-12T12:23:43.000Z",
+    "last_updated_at": "2017-07-12T12:23:43.000Z",
+    "movie": {
+        "title": "Inside Job",
+        "year": 2010,
+        "ids": {
+            "trakt": 30322,
+            "slug": "inside-job-2010",
+            "imdb": "tt1645089",
+            "tmdb": 44639
+        }
+    }
+}, {
+    "plays": 2,
+    "last_watched_at": "2017-03-27T16:01:28.000Z",
+    "last_updated_at": "2017-03-27T16:01:28.000Z",
+    "movie": {
+        "title": "Interstellar",
+        "year": 2014,
+        "ids": {
+            "trakt": 102156,
+            "slug": "interstellar-2014",
+            "imdb": "tt0816692",
+            "tmdb": 157336
+        }
+    }
+}, {
+    "plays": 2,
+    "last_watched_at": "2017-12-06T22:59:44.000Z",
+    "last_updated_at": "2017-12-06T22:59:44.000Z",
+    "movie": {
+        "title": "Inferno",
+        "year": 2016,
+        "ids": {
+            "trakt": 129013,
+            "slug": "inferno-2016",
+            "imdb": "tt3062096",
+            "tmdb": 207932
+        }
+    }
+}, {
+    "plays": 2,
+    "last_watched_at": "2015-10-02T00:00:00.000Z",
+    "last_updated_at": "2016-06-27T23:08:29.000Z",
+    "movie": {
+        "title": "The Martian",
+        "year": 2015,
+        "ids": {
+            "trakt": 183371,
+            "slug": "the-martian-2015",
+            "imdb": "tt3659388",
+            "tmdb": 286217
+        }
+    }
+}, {
+    "plays": 2,
+    "last_watched_at": "2017-01-26T23:08:00.000Z",
+    "last_updated_at": "2017-01-27T21:08:32.000Z",
+    "movie": {
+        "title": "Deep Web",
+        "year": 2015,
+        "ids": {
+            "trakt": 202707,
+            "slug": "deep-web-2015",
+            "imdb": "tt3312868",
+            "tmdb": 321769
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2003-05-30T00:00:00.000Z",
+    "last_updated_at": "2016-08-25T08:21:41.000Z",
+    "movie": {
+        "title": "Finding Nemo",
+        "year": 2003,
+        "ids": {
+            "trakt": 8,
+            "slug": "finding-nemo-2003",
+            "imdb": "tt0266543",
+            "tmdb": 12
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "1994-07-06T00:00:00.000Z",
+    "last_updated_at": "2016-09-07T14:46:04.000Z",
+    "movie": {
+        "title": "Forrest Gump",
+        "year": 1994,
+        "ids": {
+            "trakt": 9,
+            "slug": "forrest-gump-1994",
+            "imdb": "tt0109830",
+            "tmdb": 13
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2001-12-07T00:00:00.000Z",
+    "last_updated_at": "2016-08-25T08:21:48.000Z",
+    "movie": {
+        "title": "Ocean's Eleven",
+        "year": 2001,
+        "ids": {
+            "trakt": 126,
+            "slug": "ocean-s-eleven-2001",
+            "imdb": "tt0240772",
+            "tmdb": 161
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-08-04T09:21:00.000Z",
+    "last_updated_at": "2016-08-29T08:22:23.000Z",
+    "movie": {
+        "title": "Back to the Future Part III",
+        "year": 1990,
+        "ids": {
+            "trakt": 159,
+            "slug": "back-to-the-future-part-iii-1990",
+            "imdb": "tt0099088",
+            "tmdb": 196
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "1993-11-29T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:59:12.000Z",
+    "movie": {
+        "title": "Schindler's List",
+        "year": 1993,
+        "ids": {
+            "trakt": 336,
+            "slug": "schindler-s-list-1993",
+            "imdb": "tt0108052",
+            "tmdb": 424
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2002-03-15T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:59:01.000Z",
+    "movie": {
+        "title": "Ice Age",
+        "year": 2002,
+        "ids": {
+            "trakt": 337,
+            "slug": "ice-age-2002",
+            "imdb": "tt0268380",
+            "tmdb": 425
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2018-09-22T18:02:00.000Z",
+    "last_updated_at": "2019-11-10T17:03:01.000Z",
+    "movie": {
+        "title": "Good Will Hunting",
+        "year": 1997,
+        "ids": {
+            "trakt": 383,
+            "slug": "good-will-hunting-1997",
+            "imdb": "tt0119217",
+            "tmdb": 489
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "1988-07-22T00:00:00.000Z",
+    "last_updated_at": "2016-09-07T14:45:35.000Z",
+    "movie": {
+        "title": "Die Hard",
+        "year": 1988,
+        "ids": {
+            "trakt": 443,
+            "slug": "die-hard-1988",
+            "imdb": "tt0095016",
+            "tmdb": 562
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-04-23T20:24:21.000Z",
+    "last_updated_at": "2017-04-23T20:24:21.000Z",
+    "movie": {
+        "title": "The Ring",
+        "year": 2002,
+        "ids": {
+            "trakt": 446,
+            "slug": "the-ring-2002",
+            "imdb": "tt0298130",
+            "tmdb": 565
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-11-26T20:08:09.000Z",
+    "last_updated_at": "2016-11-26T20:08:09.000Z",
+    "movie": {
+        "title": "Apollo 13",
+        "year": 1995,
+        "ids": {
+            "trakt": 448,
+            "slug": "apollo-13-1995",
+            "imdb": "tt0112384",
+            "tmdb": 568
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2003-06-02T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:59:16.000Z",
+    "movie": {
+        "title": "2 Fast 2 Furious",
+        "year": 2003,
+        "ids": {
+            "trakt": 463,
+            "slug": "2-fast-2-furious-2003",
+            "imdb": "tt0322259",
+            "tmdb": 584
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "1982-06-04T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:59:22.000Z",
+    "movie": {
+        "title": "Poltergeist",
+        "year": 1982,
+        "ids": {
+            "trakt": 487,
+            "slug": "poltergeist-1982",
+            "imdb": "tt0084516",
+            "tmdb": 609
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2018-12-29T14:52:00.000Z",
+    "last_updated_at": "2019-03-13T12:51:56.000Z",
+    "movie": {
+        "title": "Munich",
+        "year": 2005,
+        "ids": {
+            "trakt": 488,
+            "slug": "munich-2005",
+            "imdb": "tt0408306",
+            "tmdb": 612
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2001-11-16T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:53:45.000Z",
+    "movie": {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "year": 2001,
+        "ids": {
+            "trakt": 545,
+            "slug": "harry-potter-and-the-philosopher-s-stone-2001",
+            "imdb": "tt0241527",
+            "tmdb": 671
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2002-11-15T00:00:00.000Z",
+    "last_updated_at": "2016-08-25T08:21:45.000Z",
+    "movie": {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "year": 2002,
+        "ids": {
+            "trakt": 546,
+            "slug": "harry-potter-and-the-chamber-of-secrets-2002",
+            "imdb": "tt0295297",
+            "tmdb": 672
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2004-06-04T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:59:50.000Z",
+    "movie": {
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "year": 2004,
+        "ids": {
+            "trakt": 547,
+            "slug": "harry-potter-and-the-prisoner-of-azkaban-2004",
+            "imdb": "tt0304141",
+            "tmdb": 673
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2005-11-18T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:59:39.000Z",
+    "movie": {
+        "title": "Harry Potter and the Goblet of Fire",
+        "year": 2005,
+        "ids": {
+            "trakt": 548,
+            "slug": "harry-potter-and-the-goblet-of-fire-2005",
+            "imdb": "tt0330373",
+            "tmdb": 674
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2007-07-11T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:54:54.000Z",
+    "movie": {
+        "title": "Harry Potter and the Order of the Phoenix",
+        "year": 2007,
+        "ids": {
+            "trakt": 549,
+            "slug": "harry-potter-and-the-order-of-the-phoenix-2007",
+            "imdb": "tt0373889",
+            "tmdb": 675
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2009-07-08T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:54:14.000Z",
+    "movie": {
+        "title": "Harry Potter and the Half-Blood Prince",
+        "year": 2009,
+        "ids": {
+            "trakt": 610,
+            "slug": "harry-potter-and-the-half-blood-prince-2009",
+            "imdb": "tt0417741",
+            "tmdb": 767
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2004-05-18T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:59:54.000Z",
+    "movie": {
+        "title": "Shrek 2",
+        "year": 2004,
+        "ids": {
+            "trakt": 652,
+            "slug": "shrek-2-2004",
+            "imdb": "tt0298148",
+            "tmdb": 809
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2001-03-16T00:00:00.000Z",
+    "last_updated_at": "2017-09-11T17:05:09.000Z",
+    "movie": {
+        "title": "Enemy at the Gates",
+        "year": 2001,
+        "ids": {
+            "trakt": 696,
+            "slug": "enemy-at-the-gates-2001",
+            "imdb": "tt0215750",
+            "tmdb": 853
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "1995-11-21T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:54:58.000Z",
+    "movie": {
+        "title": "Toy Story",
+        "year": 1995,
+        "ids": {
+            "trakt": 705,
+            "slug": "toy-story-1995",
+            "imdb": "tt0114709",
+            "tmdb": 862
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2018-03-18T10:44:04.000Z",
+    "last_updated_at": "2018-03-18T10:44:04.000Z",
+    "movie": {
+        "title": "Collateral",
+        "year": 2004,
+        "ids": {
+            "trakt": 998,
+            "slug": "collateral-2004",
+            "imdb": "tt0369339",
+            "tmdb": 1538
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-11-21T22:59:04.000Z",
+    "last_updated_at": "2017-11-21T22:59:04.000Z",
+    "movie": {
+        "title": "28 Weeks Later",
+        "year": 2007,
+        "ids": {
+            "trakt": 1021,
+            "slug": "28-weeks-later-2007",
+            "imdb": "tt0463854",
+            "tmdb": 1562
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-11-19T20:34:09.000Z",
+    "last_updated_at": "2016-11-19T20:34:09.000Z",
+    "movie": {
+        "title": "Secret Window",
+        "year": 2004,
+        "ids": {
+            "trakt": 1041,
+            "slug": "secret-window-2004",
+            "imdb": "tt0363988",
+            "tmdb": 1586
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2007-11-21T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T10:00:02.000Z",
+    "movie": {
+        "title": "Hitman",
+        "year": 2007,
+        "ids": {
+            "trakt": 1067,
+            "slug": "hitman-2007",
+            "imdb": "tt0465494",
+            "tmdb": 1620
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-06-08T21:41:56.000Z",
+    "last_updated_at": "2016-06-08T21:41:56.000Z",
+    "movie": {
+        "title": "The Hunt for Red October",
+        "year": 1990,
+        "ids": {
+            "trakt": 1111,
+            "slug": "the-hunt-for-red-october-1990",
+            "imdb": "tt0099810",
+            "tmdb": 1669
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2000-06-15T00:00:00.000Z",
+    "last_updated_at": "2016-05-22T09:23:31.000Z",
+    "movie": {
+        "title": "Me, Myself & Irene",
+        "year": 2000,
+        "ids": {
+            "trakt": 1470,
+            "slug": "me-myself-irene-2000",
+            "imdb": "tt0183505",
+            "tmdb": 2123
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-10-23T15:36:24.000Z",
+    "last_updated_at": "2016-10-23T15:36:24.000Z",
+    "movie": {
+        "title": "What Lies Beneath",
+        "year": 2000,
+        "ids": {
+            "trakt": 1792,
+            "slug": "what-lies-beneath-2000",
+            "imdb": "tt0161081",
+            "tmdb": 2655
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2002-08-02T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T10:00:27.000Z",
+    "movie": {
+        "title": "Signs",
+        "year": 2002,
+        "ids": {
+            "trakt": 1805,
+            "slug": "signs-2002",
+            "imdb": "tt0286106",
+            "tmdb": 2675
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2002-12-19T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:55:03.000Z",
+    "movie": {
+        "title": "Gangs of New York",
+        "year": 2002,
+        "ids": {
+            "trakt": 2100,
+            "slug": "gangs-of-new-york-2002",
+            "imdb": "tt0217505",
+            "tmdb": 3131
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2019-02-01T14:47:00.000Z",
+    "last_updated_at": "2019-03-13T12:47:29.000Z",
+    "movie": {
+        "title": "Scream",
+        "year": 1996,
+        "ids": {
+            "trakt": 2481,
+            "slug": "scream-1996",
+            "imdb": "tt0117571",
+            "tmdb": 4232
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2004-11-10T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T10:00:36.000Z",
+    "movie": {
+        "title": "The Polar Express",
+        "year": 2004,
+        "ids": {
+            "trakt": 3051,
+            "slug": "the-polar-express-2004",
+            "imdb": "tt0338348",
+            "tmdb": 5255
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-12-09T20:39:00.000Z",
+    "last_updated_at": "2017-12-09T18:39:36.000Z",
+    "movie": {
+        "title": "Fred Claus",
+        "year": 2007,
+        "ids": {
+            "trakt": 3073,
+            "slug": "fred-claus-2007",
+            "imdb": "tt0486583",
+            "tmdb": 5375
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2007-09-20T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T10:00:40.000Z",
+    "movie": {
+        "title": "Into the Wild",
+        "year": 2007,
+        "ids": {
+            "trakt": 3373,
+            "slug": "into-the-wild-2007",
+            "imdb": "tt0758758",
+            "tmdb": 5915
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2008-01-11T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:35:23.000Z",
+    "movie": {
+        "title": "The Bucket List",
+        "year": 2007,
+        "ids": {
+            "trakt": 3899,
+            "slug": "the-bucket-list-2007",
+            "imdb": "tt0825232",
+            "tmdb": 7350
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2009-07-01T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T10:00:50.000Z",
+    "movie": {
+        "title": "Ice Age: Dawn of the Dinosaurs",
+        "year": 2009,
+        "ids": {
+            "trakt": 4146,
+            "slug": "ice-age-dawn-of-the-dinosaurs-2009",
+            "imdb": "tt1080016",
+            "tmdb": 8355
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2008-02-14T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:27:20.000Z",
+    "movie": {
+        "title": "Definitely, Maybe",
+        "year": 2008,
+        "ids": {
+            "trakt": 4167,
+            "slug": "definitely-maybe-2008",
+            "imdb": "tt0832266",
+            "tmdb": 8390
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2008-02-18T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:14:40.000Z",
+    "movie": {
+        "title": "Taken",
+        "year": 2008,
+        "ids": {
+            "trakt": 4267,
+            "slug": "taken-2008",
+            "imdb": "tt0936501",
+            "tmdb": 8681
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2008-11-20T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:24:00.000Z",
+    "movie": {
+        "title": "Twilight",
+        "year": 2008,
+        "ids": {
+            "trakt": 4433,
+            "slug": "twilight-2008",
+            "imdb": "tt1099212",
+            "tmdb": 8966
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "1984-03-22T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T10:01:08.000Z",
+    "movie": {
+        "title": "Police Academy",
+        "year": 1984,
+        "ids": {
+            "trakt": 4630,
+            "slug": "police-academy-1984",
+            "imdb": "tt0087928",
+            "tmdb": 9336
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2006-06-03T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T10:01:16.000Z",
+    "movie": {
+        "title": "The Fast and the Furious: Tokyo Drift",
+        "year": 2006,
+        "ids": {
+            "trakt": 4891,
+            "slug": "the-fast-and-the-furious-tokyo-drift-2006",
+            "imdb": "tt0463985",
+            "tmdb": 9615
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2001-06-22T00:00:00.000Z",
+    "last_updated_at": "2017-04-23T20:20:44.000Z",
+    "movie": {
+        "title": "The Fast and the Furious",
+        "year": 2001,
+        "ids": {
+            "trakt": 5058,
+            "slug": "the-fast-and-the-furious-2001",
+            "imdb": "tt0232500",
+            "tmdb": 9799
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2010-03-26T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T10:01:24.000Z",
+    "movie": {
+        "title": "How to Train Your Dragon",
+        "year": 2010,
+        "ids": {
+            "trakt": 5405,
+            "slug": "how-to-train-your-dragon-2010",
+            "imdb": "tt0892769",
+            "tmdb": 10191
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-08-28T14:43:40.000Z",
+    "last_updated_at": "2016-08-28T14:43:40.000Z",
+    "movie": {
+        "title": "Rounders",
+        "year": 1998,
+        "ids": {
+            "trakt": 5432,
+            "slug": "rounders-1998",
+            "imdb": "tt0128442",
+            "tmdb": 10220
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2018-09-16T18:01:00.000Z",
+    "last_updated_at": "2018-09-17T16:00:23.000Z",
+    "movie": {
+        "title": "Frost/Nixon",
+        "year": 2008,
+        "ids": {
+            "trakt": 6582,
+            "slug": "frost-nixon-2008",
+            "imdb": "tt0870111",
+            "tmdb": 11499
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2018-11-20T14:51:00.000Z",
+    "last_updated_at": "2019-03-13T12:51:59.000Z",
+    "movie": {
+        "title": "Altered States",
+        "year": 1980,
+        "ids": {
+            "trakt": 6623,
+            "slug": "altered-states-1980",
+            "imdb": "tt0080360",
+            "tmdb": 11542
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-06-19T22:45:00.000Z",
+    "last_updated_at": "2016-06-22T07:01:59.000Z",
+    "movie": {
+        "title": "The Life of David Gale",
+        "year": 2003,
+        "ids": {
+            "trakt": 6691,
+            "slug": "the-life-of-david-gale-2003",
+            "imdb": "tt0289992",
+            "tmdb": 11615
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2010-11-19T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:55:08.000Z",
+    "movie": {
+        "title": "Harry Potter and the Deathly Hallows: Part 1",
+        "year": 2010,
+        "ids": {
+            "trakt": 7228,
+            "slug": "harry-potter-and-the-deathly-hallows-part-1-2010",
+            "imdb": "tt0926084",
+            "tmdb": 12444
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-07-15T00:00:00.000Z",
+    "last_updated_at": "2016-08-25T08:21:51.000Z",
+    "movie": {
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "year": 2011,
+        "ids": {
+            "trakt": 7229,
+            "slug": "harry-potter-and-the-deathly-hallows-part-2-2011",
+            "imdb": "tt1201607",
+            "tmdb": 12445
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2007-06-10T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:31:04.000Z",
+    "movie": {
+        "title": "The Man from Earth",
+        "year": 2007,
+        "ids": {
+            "trakt": 7848,
+            "slug": "the-man-from-earth-2007",
+            "imdb": "tt0756683",
+            "tmdb": 13363
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-11-06T22:16:23.000Z",
+    "last_updated_at": "2016-11-06T22:16:23.000Z",
+    "movie": {
+        "title": "Mirrors",
+        "year": 2008,
+        "ids": {
+            "trakt": 7970,
+            "slug": "mirrors-2008",
+            "imdb": "tt0790686",
+            "tmdb": 13515
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2009-04-03T00:00:00.000Z",
+    "last_updated_at": "2017-04-23T20:20:22.000Z",
+    "movie": {
+        "title": "Fast & Furious",
+        "year": 2009,
+        "ids": {
+            "trakt": 8202,
+            "slug": "fast-furious-2009",
+            "imdb": "tt1013752",
+            "tmdb": 13804
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2008-10-30T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:15:57.000Z",
+    "movie": {
+        "title": "RockNRolla",
+        "year": 2008,
+        "ids": {
+            "trakt": 8206,
+            "slug": "rocknrolla-2008",
+            "imdb": "tt1032755",
+            "tmdb": 13809
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-04-23T20:24:41.000Z",
+    "last_updated_at": "2017-04-23T20:24:41.000Z",
+    "movie": {
+        "title": "Rings",
+        "year": 2017,
+        "ids": {
+            "trakt": 8777,
+            "slug": "rings-2017",
+            "imdb": "tt0498381",
+            "tmdb": 14564
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2009-09-04T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:17:01.000Z",
+    "movie": {
+        "title": "Gamer",
+        "year": 2009,
+        "ids": {
+            "trakt": 11334,
+            "slug": "gamer-2009",
+            "imdb": "tt1034032",
+            "tmdb": 18501
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2009-06-05T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:37:51.000Z",
+    "movie": {
+        "title": "The Hangover",
+        "year": 2009,
+        "ids": {
+            "trakt": 11534,
+            "slug": "the-hangover-2009",
+            "imdb": "tt1119646",
+            "tmdb": 18785
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2009-09-08T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:26:19.000Z",
+    "movie": {
+        "title": "Pandorum",
+        "year": 2009,
+        "ids": {
+            "trakt": 12216,
+            "slug": "pandorum-2009",
+            "imdb": "tt1188729",
+            "tmdb": 19898
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2009-07-17T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:36:06.000Z",
+    "movie": {
+        "title": "(500) Days of Summer",
+        "year": 2009,
+        "ids": {
+            "trakt": 12224,
+            "slug": "500-days-of-summer-2009",
+            "imdb": "tt1022603",
+            "tmdb": 19913
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2009-12-18T00:00:00.000Z",
+    "last_updated_at": "2016-09-07T14:45:51.000Z",
+    "movie": {
+        "title": "Avatar",
+        "year": 2009,
+        "ids": {
+            "trakt": 12269,
+            "slug": "avatar-2009",
+            "imdb": "tt0499549",
+            "tmdb": 19995
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2010-08-13T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:33:03.000Z",
+    "movie": {
+        "title": "Scott Pilgrim vs. the World",
+        "year": 2010,
+        "ids": {
+            "trakt": 13716,
+            "slug": "scott-pilgrim-vs-the-world-2010",
+            "imdb": "tt0446029",
+            "tmdb": 22538
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-08-28T14:40:35.000Z",
+    "last_updated_at": "2016-08-28T14:40:35.000Z",
+    "movie": {
+        "title": "Law Abiding Citizen",
+        "year": 2009,
+        "ids": {
+            "trakt": 13852,
+            "slug": "law-abiding-citizen-2009",
+            "imdb": "tt1197624",
+            "tmdb": 22803
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2010-09-17T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:19:50.000Z",
+    "movie": {
+        "title": "The Town",
+        "year": 2010,
+        "ids": {
+            "trakt": 14027,
+            "slug": "the-town-2010",
+            "imdb": "tt0840361",
+            "tmdb": 23168
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2010-07-09T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:30:49.000Z",
+    "movie": {
+        "title": "The Girl Who Played with Fire",
+        "year": 2009,
+        "ids": {
+            "trakt": 14582,
+            "slug": "the-girl-who-played-with-fire-2009",
+            "imdb": "tt1216487",
+            "tmdb": 24253
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2010-07-16T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:20:27.000Z",
+    "movie": {
+        "title": "Inception",
+        "year": 2010,
+        "ids": {
+            "trakt": 16662,
+            "slug": "inception-2010",
+            "imdb": "tt1375666",
+            "tmdb": 27205
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-01-28T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:25:35.000Z",
+    "movie": {
+        "title": "The Mechanic",
+        "year": 2011,
+        "ids": {
+            "trakt": 16985,
+            "slug": "the-mechanic-2011",
+            "imdb": "tt0472399",
+            "tmdb": 27582
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2009-03-01T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:17:14.000Z",
+    "movie": {
+        "title": "Berlin Calling",
+        "year": 2008,
+        "ids": {
+            "trakt": 19364,
+            "slug": "berlin-calling-2008",
+            "imdb": "tt0211946",
+            "tmdb": 30508
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-12-20T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:15:30.000Z",
+    "movie": {
+        "title": "Mr. Nobody",
+        "year": 2009,
+        "ids": {
+            "trakt": 19769,
+            "slug": "mr-nobody-2009",
+            "imdb": "tt0485947",
+            "tmdb": 31011
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-12-01T01:20:13.000Z",
+    "last_updated_at": "2017-12-01T01:20:13.000Z",
+    "movie": {
+        "title": "The Truman Show",
+        "year": 1998,
+        "ids": {
+            "trakt": 23734,
+            "slug": "the-truman-show-1998",
+            "imdb": "tt0120382",
+            "tmdb": 37165
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2010-03-24T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:25:48.000Z",
+    "movie": {
+        "title": "22 Bullets",
+        "year": 2010,
+        "ids": {
+            "trakt": 24151,
+            "slug": "22-bullets-2010",
+            "imdb": "tt1167638",
+            "tmdb": 37645
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2012-11-09T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:34:14.000Z",
+    "movie": {
+        "title": "Skyfall",
+        "year": 2012,
+        "ids": {
+            "trakt": 24221,
+            "slug": "skyfall-2012",
+            "imdb": "tt1074638",
+            "tmdb": 37724
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2010-09-17T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:24:28.000Z",
+    "movie": {
+        "title": "Easy A",
+        "year": 2010,
+        "ids": {
+            "trakt": 24230,
+            "slug": "easy-a-2010",
+            "imdb": "tt1282140",
+            "tmdb": 37735
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2010-10-14T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:24:40.000Z",
+    "movie": {
+        "title": "RED",
+        "year": 2010,
+        "ids": {
+            "trakt": 25704,
+            "slug": "red-2010",
+            "imdb": "tt1245526",
+            "tmdb": 39514
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-09-09T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:21:33.000Z",
+    "movie": {
+        "title": "Contagion",
+        "year": 2011,
+        "ids": {
+            "trakt": 25724,
+            "slug": "contagion-2011",
+            "imdb": "tt1598778",
+            "tmdb": 39538
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-09-26T21:26:21.000Z",
+    "last_updated_at": "2017-09-26T21:26:21.000Z",
+    "movie": {
+        "title": "A Kind of America",
+        "year": 2002,
+        "ids": {
+            "trakt": 26481,
+            "slug": "a-kind-of-america-2002",
+            "imdb": "tt0303184",
+            "tmdb": 40360
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-09-30T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:29:25.000Z",
+    "movie": {
+        "title": "50/50",
+        "year": 2011,
+        "ids": {
+            "trakt": 26878,
+            "slug": "50-50-2011",
+            "imdb": "tt1306980",
+            "tmdb": 40807
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-01-14T23:40:38.000Z",
+    "last_updated_at": "2017-01-14T23:40:38.000Z",
+    "movie": {
+        "title": "Charlie Countryman",
+        "year": 2013,
+        "ids": {
+            "trakt": 27560,
+            "slug": "charlie-countryman-2013",
+            "imdb": "tt1196948",
+            "tmdb": 41602
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2010-11-19T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:17:44.000Z",
+    "movie": {
+        "title": "The Next Three Days",
+        "year": 2010,
+        "ids": {
+            "trakt": 29317,
+            "slug": "the-next-three-days-2010",
+            "imdb": "tt1458175",
+            "tmdb": 43539
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2010-10-29T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:32:14.000Z",
+    "movie": {
+        "title": "Monsters",
+        "year": 2010,
+        "ids": {
+            "trakt": 29680,
+            "slug": "monsters-2010",
+            "imdb": "tt1470827",
+            "tmdb": 43933
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2010-12-02T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:18:35.000Z",
+    "movie": {
+        "title": "Black Swan",
+        "year": 2010,
+        "ids": {
+            "trakt": 29936,
+            "slug": "black-swan-2010",
+            "imdb": "tt0947798",
+            "tmdb": 44214
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-08-24T17:00:20.000Z",
+    "last_updated_at": "2016-08-24T17:00:20.000Z",
+    "movie": {
+        "title": "True Grit",
+        "year": 2010,
+        "ids": {
+            "trakt": 29981,
+            "slug": "true-grit-2010",
+            "imdb": "tt1403865",
+            "tmdb": 44264
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-05-25T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:37:58.000Z",
+    "movie": {
+        "title": "The Hangover Part II",
+        "year": 2011,
+        "ids": {
+            "trakt": 30842,
+            "slug": "the-hangover-part-ii-2011",
+            "imdb": "tt1411697",
+            "tmdb": 45243
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-04-01T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:31:15.000Z",
+    "movie": {
+        "title": "Source Code",
+        "year": 2011,
+        "ids": {
+            "trakt": 31151,
+            "slug": "source-code-2011",
+            "imdb": "tt0945513",
+            "tmdb": 45612
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-02-18T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:21:42.000Z",
+    "movie": {
+        "title": "I Am Number Four",
+        "year": 2011,
+        "ids": {
+            "trakt": 31930,
+            "slug": "i-am-number-four-2011",
+            "imdb": "tt1464540",
+            "tmdb": 46529
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-02-24T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:36:35.000Z",
+    "movie": {
+        "title": "Drive Angry",
+        "year": 2011,
+        "ids": {
+            "trakt": 32654,
+            "slug": "drive-angry-2011",
+            "imdb": "tt1502404",
+            "tmdb": 47327
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-06-22T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:53:20.000Z",
+    "movie": {
+        "title": "Independence Day: Resurgence",
+        "year": 2016,
+        "ids": {
+            "trakt": 33179,
+            "slug": "independence-day-resurgence-2016",
+            "imdb": "tt1628841",
+            "tmdb": 47933
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-01-28T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:16:41.000Z",
+    "movie": {
+        "title": "The Rite",
+        "year": 2011,
+        "ids": {
+            "trakt": 33321,
+            "slug": "the-rite-2011",
+            "imdb": "tt1161864",
+            "tmdb": 48171
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-04-01T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:22:15.000Z",
+    "movie": {
+        "title": "Insidious",
+        "year": 2010,
+        "ids": {
+            "trakt": 34068,
+            "slug": "insidious-2010",
+            "imdb": "tt1591095",
+            "tmdb": 49018
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-09-23T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:17:57.000Z",
+    "movie": {
+        "title": "Killer Elite",
+        "year": 2011,
+        "ids": {
+            "trakt": 34070,
+            "slug": "killer-elite-2011",
+            "imdb": "tt1448755",
+            "tmdb": 49021
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-08-05T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:22:28.000Z",
+    "movie": {
+        "title": "The Change-Up",
+        "year": 2011,
+        "ids": {
+            "trakt": 34506,
+            "slug": "the-change-up-2011",
+            "imdb": "tt1488555",
+            "tmdb": 49520
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2012-11-16T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:55:17.000Z",
+    "movie": {
+        "title": "The Twilight Saga: Breaking Dawn - Part 2",
+        "year": 2012,
+        "ids": {
+            "trakt": 35415,
+            "slug": "the-twilight-saga-breaking-dawn-part-2-2012",
+            "imdb": "tt1673434",
+            "tmdb": 50620
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-07-28T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:32:46.000Z",
+    "movie": {
+        "title": "Crazy, Stupid, Love.",
+        "year": 2011,
+        "ids": {
+            "trakt": 35436,
+            "slug": "crazy-stupid-love-2011",
+            "imdb": "tt1570728",
+            "tmdb": 50646
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-10-21T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:26:29.000Z",
+    "movie": {
+        "title": "Margin Call",
+        "year": 2011,
+        "ids": {
+            "trakt": 35595,
+            "slug": "margin-call-2011",
+            "imdb": "tt1615147",
+            "tmdb": 50839
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-04-28T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:54:17.000Z",
+    "movie": {
+        "title": "Fast Five",
+        "year": 2011,
+        "ids": {
+            "trakt": 36131,
+            "slug": "fast-five-2011",
+            "imdb": "tt1596343",
+            "tmdb": 51497
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-07-08T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:33:16.000Z",
+    "movie": {
+        "title": "Horrible Bosses",
+        "year": 2011,
+        "ids": {
+            "trakt": 36171,
+            "slug": "horrible-bosses-2011",
+            "imdb": "tt1499658",
+            "tmdb": 51540
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-03-08T00:00:00.000Z",
+    "last_updated_at": "2016-10-25T19:30:44.000Z",
+    "movie": {
+        "title": "Limitless",
+        "year": 2011,
+        "ids": {
+            "trakt": 36449,
+            "slug": "limitless-2011",
+            "imdb": "tt1219289",
+            "tmdb": 51876
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-08-23T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:29:53.000Z",
+    "movie": {
+        "title": "Blitz",
+        "year": 2011,
+        "ids": {
+            "trakt": 39764,
+            "slug": "blitz-2011",
+            "imdb": "tt1297919",
+            "tmdb": 55846
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2012-03-02T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:20:19.000Z",
+    "movie": {
+        "title": "Project X",
+        "year": 2012,
+        "ids": {
+            "trakt": 40847,
+            "slug": "project-x-2012",
+            "imdb": "tt1636826",
+            "tmdb": 57214
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-04-08T20:57:45.000Z",
+    "last_updated_at": "2017-04-08T20:57:45.000Z",
+    "movie": {
+        "title": "Area 51",
+        "year": 2015,
+        "ids": {
+            "trakt": 41375,
+            "slug": "area-51-2015",
+            "imdb": "tt1519461",
+            "tmdb": 57876
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-03-13T16:50:01.000Z",
+    "last_updated_at": "2017-03-13T16:50:01.000Z",
+    "movie": {
+        "title": "Mr. Popper's Penguins",
+        "year": 2011,
+        "ids": {
+            "trakt": 41645,
+            "slug": "mr-popper-s-penguins-2011",
+            "imdb": "tt1396218",
+            "tmdb": 58224
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2013-03-14T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:34:20.000Z",
+    "movie": {
+        "title": "Upside Down",
+        "year": 2012,
+        "ids": {
+            "trakt": 41659,
+            "slug": "upside-down-2012",
+            "imdb": "tt1374992",
+            "tmdb": 58244
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-01-15T18:59:40.000Z",
+    "last_updated_at": "2017-01-15T18:59:40.000Z",
+    "movie": {
+        "title": "Tower Heist",
+        "year": 2011,
+        "ids": {
+            "trakt": 42338,
+            "slug": "tower-heist-2011",
+            "imdb": "tt0471042",
+            "tmdb": 59108
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2012-02-10T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:24:17.000Z",
+    "movie": {
+        "title": "Safe House",
+        "year": 2012,
+        "ids": {
+            "trakt": 42891,
+            "slug": "safe-house-2012",
+            "imdb": "tt1599348",
+            "tmdb": 59961
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-09-16T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:36:38.000Z",
+    "movie": {
+        "title": "Drive",
+        "year": 2011,
+        "ids": {
+            "trakt": 46736,
+            "slug": "drive-2011",
+            "imdb": "tt0780504",
+            "tmdb": 64690
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-11-18T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:34:39.000Z",
+    "movie": {
+        "title": "The Descendants",
+        "year": 2011,
+        "ids": {
+            "trakt": 47053,
+            "slug": "the-descendants-2011",
+            "imdb": "tt1033575",
+            "tmdb": 65057
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-08-24T13:32:53.000Z",
+    "last_updated_at": "2016-08-24T13:32:53.000Z",
+    "movie": {
+        "title": "Django Unchained",
+        "year": 2012,
+        "ids": {
+            "trakt": 50131,
+            "slug": "django-unchained-2012",
+            "imdb": "tt1853728",
+            "tmdb": 68718
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2012-03-23T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:30:05.000Z",
+    "movie": {
+        "title": "The Hunger Games",
+        "year": 2012,
+        "ids": {
+            "trakt": 51342,
+            "slug": "the-hunger-games-2012",
+            "imdb": "tt1392170",
+            "tmdb": 70160
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2012-01-27T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:25:03.000Z",
+    "movie": {
+        "title": "The Grey",
+        "year": 2012,
+        "ids": {
+            "trakt": 55411,
+            "slug": "the-grey-2012",
+            "imdb": "tt1601913",
+            "tmdb": 75174
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-02-02T22:47:43.000Z",
+    "last_updated_at": "2017-02-02T22:47:43.000Z",
+    "movie": {
+        "title": "Oblivion",
+        "year": 2013,
+        "ids": {
+            "trakt": 55753,
+            "slug": "oblivion-2013",
+            "imdb": "tt1483013",
+            "tmdb": 75612
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2012-12-21T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:27:56.000Z",
+    "movie": {
+        "title": "Jack Reacher",
+        "year": 2012,
+        "ids": {
+            "trakt": 55894,
+            "slug": "jack-reacher-2012",
+            "imdb": "tt0790724",
+            "tmdb": 75780
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2012-05-16T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:27:32.000Z",
+    "movie": {
+        "title": "The Dictator",
+        "year": 2012,
+        "ids": {
+            "trakt": 56495,
+            "slug": "the-dictator-2012",
+            "imdb": "tt1645170",
+            "tmdb": 76493
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-11-02T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:18:47.000Z",
+    "movie": {
+        "title": "The Intouchables",
+        "year": 2011,
+        "ids": {
+            "trakt": 57181,
+            "slug": "the-intouchables-2011",
+            "imdb": "tt1675434",
+            "tmdb": 77338
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2011-04-22T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:26:31.000Z",
+    "movie": {
+        "title": "TT3D: Closer to the Edge",
+        "year": 2011,
+        "ids": {
+            "trakt": 59190,
+            "slug": "tt3d-closer-to-the-edge-2011",
+            "imdb": "tt1698010",
+            "tmdb": 79628
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2012-10-04T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:14:43.000Z",
+    "movie": {
+        "title": "Taken 2",
+        "year": 2012,
+        "ids": {
+            "trakt": 61849,
+            "slug": "taken-2-2012",
+            "imdb": "tt1397280",
+            "tmdb": 82675
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2013-05-31T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:36:54.000Z",
+    "movie": {
+        "title": "After Earth",
+        "year": 2013,
+        "ids": {
+            "trakt": 61872,
+            "slug": "after-earth-2013",
+            "imdb": "tt1815862",
+            "tmdb": 82700
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2013-05-22T00:00:00.000Z",
+    "last_updated_at": "2017-04-23T20:20:20.000Z",
+    "movie": {
+        "title": "Fast & Furious 6",
+        "year": 2013,
+        "ids": {
+            "trakt": 62123,
+            "slug": "fast-furious-6-2013",
+            "imdb": "tt1905041",
+            "tmdb": 82992
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2012-11-02T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:27:50.000Z",
+    "movie": {
+        "title": "Flight",
+        "year": 2012,
+        "ids": {
+            "trakt": 65754,
+            "slug": "flight-2012",
+            "imdb": "tt1907668",
+            "tmdb": 87502
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2013-09-13T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:22:17.000Z",
+    "movie": {
+        "title": "Insidious: Chapter 2",
+        "year": 2013,
+        "ids": {
+            "trakt": 67889,
+            "slug": "insidious-chapter-2-2013",
+            "imdb": "tt2226417",
+            "tmdb": 91586
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2013-09-27T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:32:35.000Z",
+    "movie": {
+        "title": "Rush",
+        "year": 2013,
+        "ids": {
+            "trakt": 70421,
+            "slug": "rush-2013",
+            "imdb": "tt1979320",
+            "tmdb": 96721
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2013-11-22T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:30:09.000Z",
+    "movie": {
+        "title": "The Hunger Games: Catching Fire",
+        "year": 2013,
+        "ids": {
+            "trakt": 72719,
+            "slug": "the-hunger-games-catching-fire-2013",
+            "imdb": "tt1951264",
+            "tmdb": 101299
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2013-12-25T00:00:00.000Z",
+    "last_updated_at": "2016-02-07T17:03:38.000Z",
+    "movie": {
+        "title": "The Wolf of Wall Street",
+        "year": 2013,
+        "ids": {
+            "trakt": 75735,
+            "slug": "the-wolf-of-wall-street-2013",
+            "imdb": "tt0993846",
+            "tmdb": 106646
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2013-02-08T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:16:21.000Z",
+    "movie": {
+        "title": "Side Effects",
+        "year": 2013,
+        "ids": {
+            "trakt": 77331,
+            "slug": "side-effects-2013",
+            "imdb": "tt2053463",
+            "tmdb": 109421
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2013-05-23T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:37:55.000Z",
+    "movie": {
+        "title": "The Hangover Part III",
+        "year": 2013,
+        "ids": {
+            "trakt": 77344,
+            "slug": "the-hangover-part-iii-2013",
+            "imdb": "tt1951261",
+            "tmdb": 109439
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2013-01-25T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:30:33.000Z",
+    "movie": {
+        "title": "Parker",
+        "year": 2013,
+        "ids": {
+            "trakt": 82938,
+            "slug": "parker-2013",
+            "imdb": "tt1904996",
+            "tmdb": 119283
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2014-11-21T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:30:11.000Z",
+    "movie": {
+        "title": "The Hunger Games: Mockingjay - Part 1",
+        "year": 2014,
+        "ids": {
+            "trakt": 89542,
+            "slug": "the-hunger-games-mockingjay-part-1-2014",
+            "imdb": "tt1951265",
+            "tmdb": 131631
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2015-11-20T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:30:20.000Z",
+    "movie": {
+        "title": "The Hunger Games: Mockingjay - Part 2",
+        "year": 2015,
+        "ids": {
+            "trakt": 89543,
+            "slug": "the-hunger-games-mockingjay-part-2-2015",
+            "imdb": "tt1951266",
+            "tmdb": 131634
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-02-14T23:45:00.000Z",
+    "last_updated_at": "2016-02-15T13:00:02.000Z",
+    "movie": {
+        "title": "Pain & Gain",
+        "year": 2013,
+        "ids": {
+            "trakt": 90856,
+            "slug": "pain-gain-2013",
+            "imdb": "tt1980209",
+            "tmdb": 134374
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2013-08-02T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:23:34.000Z",
+    "movie": {
+        "title": "2 Guns",
+        "year": 2013,
+        "ids": {
+            "trakt": 91859,
+            "slug": "2-guns-2013",
+            "imdb": "tt1272878",
+            "tmdb": 136400
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2014-03-14T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:28:28.000Z",
+    "movie": {
+        "title": "Need for Speed",
+        "year": 2014,
+        "ids": {
+            "trakt": 92062,
+            "slug": "need-for-speed-2014",
+            "imdb": "tt2369135",
+            "tmdb": 136797
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2014-06-06T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:55:23.000Z",
+    "movie": {
+        "title": "Edge of Tomorrow",
+        "year": 2014,
+        "ids": {
+            "trakt": 92230,
+            "slug": "edge-of-tomorrow-2014",
+            "imdb": "tt1631867",
+            "tmdb": 137113
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2013-09-27T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:28:07.000Z",
+    "movie": {
+        "title": "Don Jon",
+        "year": 2013,
+        "ids": {
+            "trakt": 93088,
+            "slug": "don-jon-2013",
+            "imdb": "tt2229499",
+            "tmdb": 138697
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2013-08-07T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:21:12.000Z",
+    "movie": {
+        "title": "We're the Millers",
+        "year": 2013,
+        "ids": {
+            "trakt": 93163,
+            "slug": "we-re-the-millers-2013",
+            "imdb": "tt1723121",
+            "tmdb": 138832
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-02-20T22:13:00.000Z",
+    "last_updated_at": "2016-02-21T21:13:48.000Z",
+    "movie": {
+        "title": "Dark Skies",
+        "year": 2013,
+        "ids": {
+            "trakt": 96252,
+            "slug": "dark-skies-2013",
+            "imdb": "tt2387433",
+            "tmdb": 145135
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2013-07-19T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:24:48.000Z",
+    "movie": {
+        "title": "RED 2",
+        "year": 2013,
+        "ids": {
+            "trakt": 96790,
+            "slug": "red-2-2013",
+            "imdb": "tt1821694",
+            "tmdb": 146216
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2013-09-21T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:15:10.000Z",
+    "movie": {
+        "title": "Prisoners",
+        "year": 2013,
+        "ids": {
+            "trakt": 96797,
+            "slug": "prisoners-2013",
+            "imdb": "tt1392214",
+            "tmdb": 146233
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2014-04-17T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:26:48.000Z",
+    "movie": {
+        "title": "Transcendence",
+        "year": 2014,
+        "ids": {
+            "trakt": 102164,
+            "slug": "transcendence-2014",
+            "imdb": "tt2209764",
+            "tmdb": 157353
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-05-22T19:18:21.000Z",
+    "last_updated_at": "2016-05-22T19:18:21.000Z",
+    "movie": {
+        "title": "Louder Than Bombs",
+        "year": 2015,
+        "ids": {
+            "trakt": 102434,
+            "slug": "louder-than-bombs-2015",
+            "imdb": "tt2217859",
+            "tmdb": 157827
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2015-04-03T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:22:52.000Z",
+    "movie": {
+        "title": "Furious 7",
+        "year": 2015,
+        "ids": {
+            "trakt": 107556,
+            "slug": "furious-7-2015",
+            "imdb": "tt2820852",
+            "tmdb": 168259
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2014-09-19T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:25:25.000Z",
+    "movie": {
+        "title": "A Walk Among the Tombstones",
+        "year": 2014,
+        "ids": {
+            "trakt": 108370,
+            "slug": "a-walk-among-the-tombstones-2014",
+            "imdb": "tt0365907",
+            "tmdb": 169917
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2014-04-11T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:54:23.000Z",
+    "movie": {
+        "title": "Rio 2",
+        "year": 2014,
+        "ids": {
+            "trakt": 109615,
+            "slug": "rio-2-2014",
+            "imdb": "tt2357291",
+            "tmdb": 172385
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2015-04-17T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:31:28.000Z",
+    "movie": {
+        "title": "Child 44",
+        "year": 2015,
+        "ids": {
+            "trakt": 114124,
+            "slug": "child-44-2015",
+            "imdb": "tt1014763",
+            "tmdb": 181283
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2014-03-14T00:00:00.000Z",
+    "last_updated_at": "2017-09-11T17:04:56.000Z",
+    "movie": {
+        "title": "Enemy",
+        "year": 2013,
+        "ids": {
+            "trakt": 114374,
+            "slug": "enemy-2013",
+            "imdb": "tt2316411",
+            "tmdb": 181886
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-01-24T13:18:07.000Z",
+    "last_updated_at": "2016-01-24T13:18:07.000Z",
+    "movie": {
+        "title": "Shaking Tokyo",
+        "year": 2008,
+        "ids": {
+            "trakt": 117362,
+            "slug": "shaking-tokyo-2008",
+            "imdb": null,
+            "tmdb": 187415
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2014-12-25T00:00:00.000Z",
+    "last_updated_at": "2016-01-17T14:26:18.000Z",
+    "movie": {
+        "title": "American Sniper",
+        "year": 2014,
+        "ids": {
+            "trakt": 119348,
+            "slug": "american-sniper-2014",
+            "imdb": "tt2179136",
+            "tmdb": 190859
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2014-02-14T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:20:06.000Z",
+    "movie": {
+        "title": "3 Days to Kill",
+        "year": 2014,
+        "ids": {
+            "trakt": 120007,
+            "slug": "3-days-to-kill-2014",
+            "imdb": "tt2172934",
+            "tmdb": 192102
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2014-04-25T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:33:50.000Z",
+    "movie": {
+        "title": "The Other Woman",
+        "year": 2014,
+        "ids": {
+            "trakt": 120866,
+            "slug": "the-other-woman-2014",
+            "imdb": "tt2203939",
+            "tmdb": 193610
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2014-12-19T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:32:28.000Z",
+    "movie": {
+        "title": "The Imitation Game",
+        "year": 2014,
+        "ids": {
+            "trakt": 127828,
+            "slug": "the-imitation-game-2014",
+            "imdb": "tt2084970",
+            "tmdb": 205596
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2015-11-06T00:00:00.000Z",
+    "last_updated_at": "2016-01-17T14:25:53.000Z",
+    "movie": {
+        "title": "Spectre",
+        "year": 2015,
+        "ids": {
+            "trakt": 128378,
+            "slug": "spectre-2015",
+            "imdb": "tt2379713",
+            "tmdb": 206647
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2014-10-03T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:26:57.000Z",
+    "movie": {
+        "title": "Gone Girl",
+        "year": 2014,
+        "ids": {
+            "trakt": 130355,
+            "slug": "gone-girl-2014",
+            "imdb": "tt2267998",
+            "tmdb": 210577
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-08-03T09:21:00.000Z",
+    "last_updated_at": "2016-08-29T08:22:07.000Z",
+    "movie": {
+        "title": "Back to the Future... The Ride",
+        "year": 1991,
+        "ids": {
+            "trakt": 130918,
+            "slug": "back-to-the-future-the-ride-1991",
+            "imdb": "tt0101392",
+            "tmdb": 211582
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2015-02-13T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:37:10.000Z",
+    "movie": {
+        "title": "Fifty Shades of Grey",
+        "year": 2015,
+        "ids": {
+            "trakt": 133346,
+            "slug": "fifty-shades-of-grey-2015",
+            "imdb": "tt2322441",
+            "tmdb": 216015
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2013-09-19T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:29:45.000Z",
+    "movie": {
+        "title": "Coherence",
+        "year": 2013,
+        "ids": {
+            "trakt": 135581,
+            "slug": "coherence-2013",
+            "imdb": "tt2866360",
+            "tmdb": 220289
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2014-02-28T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:16:06.000Z",
+    "movie": {
+        "title": "Non-Stop",
+        "year": 2014,
+        "ids": {
+            "trakt": 138149,
+            "slug": "non-stop-2014",
+            "imdb": "tt2024469",
+            "tmdb": 225574
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2014-11-26T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:33:20.000Z",
+    "movie": {
+        "title": "Horrible Bosses 2",
+        "year": 2014,
+        "ids": {
+            "trakt": 138919,
+            "slug": "horrible-bosses-2-2014",
+            "imdb": "tt2170439",
+            "tmdb": 227159
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2015-01-30T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:35:53.000Z",
+    "movie": {
+        "title": "Project Almanac",
+        "year": 2015,
+        "ids": {
+            "trakt": 139232,
+            "slug": "project-almanac-2015",
+            "imdb": "tt2436386",
+            "tmdb": 227719
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2015-06-05T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:36:22.000Z",
+    "movie": {
+        "title": "Spy",
+        "year": 2015,
+        "ids": {
+            "trakt": 145711,
+            "slug": "spy-2015",
+            "imdb": "tt3079380",
+            "tmdb": 238713
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2014-10-31T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:28:42.000Z",
+    "movie": {
+        "title": "Nightcrawler",
+        "year": 2014,
+        "ids": {
+            "trakt": 147742,
+            "slug": "nightcrawler-2014",
+            "imdb": "tt2872718",
+            "tmdb": 242582
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2014-10-24T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:26:07.000Z",
+    "movie": {
+        "title": "John Wick",
+        "year": 2014,
+        "ids": {
+            "trakt": 149640,
+            "slug": "john-wick-2014",
+            "imdb": "tt2911666",
+            "tmdb": 245891
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-08-25T20:13:49.000Z",
+    "last_updated_at": "2016-08-25T20:13:49.000Z",
+    "movie": {
+        "title": "The Dark Valley",
+        "year": 2014,
+        "ids": {
+            "trakt": 151089,
+            "slug": "the-dark-valley-2014",
+            "imdb": "tt2650978",
+            "tmdb": 248933
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2014-03-20T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:23:07.000Z",
+    "movie": {
+        "title": "Nymphomaniac: Vol. II",
+        "year": 2013,
+        "ids": {
+            "trakt": 151349,
+            "slug": "nymphomaniac-vol-ii-2013",
+            "imdb": "tt2382009",
+            "tmdb": 249397
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-01-28T15:58:44.000Z",
+    "last_updated_at": "2017-01-28T15:58:44.000Z",
+    "movie": {
+        "title": "The Internet's Own Boy: The Story of Aaron Swartz",
+        "year": 2014,
+        "ids": {
+            "trakt": 152051,
+            "slug": "the-internet-s-own-boy-the-story-of-aaron-swartz-2014",
+            "imdb": "tt3268458",
+            "tmdb": 250658
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2015-09-02T00:00:00.000Z",
+    "last_updated_at": "2016-01-17T14:23:05.000Z",
+    "movie": {
+        "title": "Everest",
+        "year": 2015,
+        "ids": {
+            "trakt": 153969,
+            "slug": "everest-2015",
+            "imdb": "tt2719848",
+            "tmdb": 253412
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-01-04T15:18:00.000Z",
+    "last_updated_at": "2016-01-17T14:18:51.000Z",
+    "movie": {
+        "title": "The Lobster",
+        "year": 2015,
+        "ids": {
+            "trakt": 154718,
+            "slug": "the-lobster-2015",
+            "imdb": "tt3464902",
+            "tmdb": 254320
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2015-02-27T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:35:47.000Z",
+    "movie": {
+        "title": "Focus",
+        "year": 2015,
+        "ids": {
+            "trakt": 156518,
+            "slug": "focus-2015",
+            "imdb": "tt2381941",
+            "tmdb": 256591
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2015-09-24T00:00:00.000Z",
+    "last_updated_at": "2016-01-17T14:23:35.000Z",
+    "movie": {
+        "title": "The Intern",
+        "year": 2015,
+        "ids": {
+            "trakt": 156997,
+            "slug": "the-intern-2015",
+            "imdb": "tt2361509",
+            "tmdb": 257211
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2014-03-06T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:23:02.000Z",
+    "movie": {
+        "title": "Nymphomaniac: Vol. I",
+        "year": 2013,
+        "ids": {
+            "trakt": 157799,
+            "slug": "nymphomaniac-vol-i-2013",
+            "imdb": "tt1937390",
+            "tmdb": 258216
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2015-01-09T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:14:47.000Z",
+    "movie": {
+        "title": "Taken 3",
+        "year": 2014,
+        "ids": {
+            "trakt": 159491,
+            "slug": "taken-3-2014",
+            "imdb": "tt2446042",
+            "tmdb": 260346
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-11-19T17:46:36.000Z",
+    "last_updated_at": "2017-11-19T17:46:36.000Z",
+    "movie": {
+        "title": "Automata",
+        "year": 2014,
+        "ids": {
+            "trakt": 161455,
+            "slug": "automata-2014",
+            "imdb": "tt1971325",
+            "tmdb": 262543
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2015-04-24T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:55:37.000Z",
+    "movie": {
+        "title": "Ex Machina",
+        "year": 2015,
+        "ids": {
+            "trakt": 163375,
+            "slug": "ex-machina-2015",
+            "imdb": "tt0470752",
+            "tmdb": 264660
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-05-22T10:21:00.000Z",
+    "last_updated_at": "2016-05-22T09:21:45.000Z",
+    "movie": {
+        "title": "London Has Fallen",
+        "year": 2016,
+        "ids": {
+            "trakt": 166247,
+            "slug": "london-has-fallen-2016",
+            "imdb": "tt3300542",
+            "tmdb": 267860
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2015-03-13T00:00:00.000Z",
+    "last_updated_at": "2016-01-17T14:19:24.000Z",
+    "movie": {
+        "title": "It Follows",
+        "year": 2015,
+        "ids": {
+            "trakt": 168349,
+            "slug": "it-follows-2015",
+            "imdb": "tt3235888",
+            "tmdb": 270303
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2015-12-30T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:23:23.000Z",
+    "movie": {
+        "title": "The Hateful Eight",
+        "year": 2015,
+        "ids": {
+            "trakt": 171149,
+            "slug": "the-hateful-eight-2015",
+            "imdb": "tt3460252",
+            "tmdb": 273248
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2015-09-18T00:00:00.000Z",
+    "last_updated_at": "2016-01-17T14:17:28.000Z",
+    "movie": {
+        "title": "Sicario",
+        "year": 2015,
+        "ids": {
+            "trakt": 171369,
+            "slug": "sicario-2015",
+            "imdb": "tt3397884",
+            "tmdb": 273481
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2015-12-25T00:00:00.000Z",
+    "last_updated_at": "2016-05-22T09:25:34.000Z",
+    "movie": {
+        "title": "Daddy's Home",
+        "year": 2015,
+        "ids": {
+            "trakt": 172017,
+            "slug": "daddy-s-home-2015",
+            "imdb": "tt1528854",
+            "tmdb": 274167
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2015-10-23T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:31:39.000Z",
+    "movie": {
+        "title": "The Last Witch Hunter",
+        "year": 2015,
+        "ids": {
+            "trakt": 172684,
+            "slug": "the-last-witch-hunter-2015",
+            "imdb": "tt1618442",
+            "tmdb": 274854
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-03-30T12:48:50.000Z",
+    "last_updated_at": "2017-03-30T12:48:50.000Z",
+    "movie": {
+        "title": "Passengers",
+        "year": 2016,
+        "ids": {
+            "trakt": 172700,
+            "slug": "passengers-2016",
+            "imdb": "tt1355644",
+            "tmdb": 274870
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-01-22T00:01:13.000Z",
+    "last_updated_at": "2016-01-22T00:01:13.000Z",
+    "movie": {
+        "title": "Legend",
+        "year": 2015,
+        "ids": {
+            "trakt": 174599,
+            "slug": "legend-2015",
+            "imdb": "tt3569230",
+            "tmdb": 276907
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-01-06T15:19:00.000Z",
+    "last_updated_at": "2016-01-17T14:19:11.000Z",
+    "movie": {
+        "title": "Unfriended",
+        "year": 2015,
+        "ids": {
+            "trakt": 175333,
+            "slug": "unfriended-2015",
+            "imdb": "tt3713166",
+            "tmdb": 277685
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-08-21T18:12:31.000Z",
+    "last_updated_at": "2016-08-21T18:12:31.000Z",
+    "movie": {
+        "title": "Girl's Blood",
+        "year": 2014,
+        "ids": {
+            "trakt": 176139,
+            "slug": "girl-s-blood-2014",
+            "imdb": "tt3456784",
+            "tmdb": 278540
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-01-08T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:54:33.000Z",
+    "movie": {
+        "title": "The Revenant",
+        "year": 2015,
+        "ids": {
+            "trakt": 179334,
+            "slug": "the-revenant-2015",
+            "imdb": "tt1663202",
+            "tmdb": 281957
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2018-01-10T15:07:48.000Z",
+    "last_updated_at": "2018-01-10T15:07:48.000Z",
+    "movie": {
+        "title": "Bokeh",
+        "year": 2017,
+        "ids": {
+            "trakt": 183676,
+            "slug": "bokeh-2017",
+            "imdb": "tt3722062",
+            "tmdb": 286538
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-02-02T00:00:00.000Z",
+    "last_updated_at": "2016-02-07T17:01:57.000Z",
+    "movie": {
+        "title": "Blue Mountain State: The Rise of Thadland",
+        "year": 2016,
+        "ids": {
+            "trakt": 185206,
+            "slug": "blue-mountain-state-the-rise-of-thadland-2016",
+            "imdb": "tt3748440",
+            "tmdb": 288171
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-05-20T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:37:37.000Z",
+    "movie": {
+        "title": "The Nice Guys",
+        "year": 2016,
+        "ids": {
+            "trakt": 187173,
+            "slug": "the-nice-guys-2016",
+            "imdb": "tt3799694",
+            "tmdb": 290250
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-05-11T10:22:00.000Z",
+    "last_updated_at": "2016-05-22T09:22:37.000Z",
+    "movie": {
+        "title": "Secret in Their Eyes",
+        "year": 2015,
+        "ids": {
+            "trakt": 187655,
+            "slug": "secret-in-their-eyes-2015",
+            "imdb": "tt1741273",
+            "tmdb": 290751
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-08-21T14:27:41.000Z",
+    "last_updated_at": "2016-08-21T14:27:41.000Z",
+    "movie": {
+        "title": "Now You See Me 2",
+        "year": 2016,
+        "ids": {
+            "trakt": 188631,
+            "slug": "now-you-see-me-2-2016",
+            "imdb": "tt3110958",
+            "tmdb": 291805
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-01-22T00:00:00.000Z",
+    "last_updated_at": "2016-05-22T09:28:59.000Z",
+    "movie": {
+        "title": "Dirty Grandpa",
+        "year": 2016,
+        "ids": {
+            "trakt": 188691,
+            "slug": "dirty-grandpa-2016",
+            "imdb": "tt1860213",
+            "tmdb": 291870
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-06-04T22:00:00.000Z",
+    "last_updated_at": "2016-06-05T12:08:59.000Z",
+    "movie": {
+        "title": "Deadpool",
+        "year": 2016,
+        "ids": {
+            "trakt": 190430,
+            "slug": "deadpool-2016",
+            "imdb": "tt1431045",
+            "tmdb": 293660
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-01-16T15:25:00.000Z",
+    "last_updated_at": "2016-01-17T14:25:13.000Z",
+    "movie": {
+        "title": "GirlHouse",
+        "year": 2014,
+        "ids": {
+            "trakt": 192378,
+            "slug": "girlhouse-2014",
+            "imdb": "tt2577172",
+            "tmdb": 312791
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "1992-01-05T00:00:00.000Z",
+    "last_updated_at": "2017-11-13T18:50:23.000Z",
+    "movie": {
+        "title": "The ABC Murders",
+        "year": 1992,
+        "ids": {
+            "trakt": 192933,
+            "slug": "the-abc-murders-1992",
+            "imdb": "tt0467432",
+            "tmdb": 313370
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-06-22T15:14:23.000Z",
+    "last_updated_at": "2017-06-22T15:14:23.000Z",
+    "movie": {
+        "title": "Suicide Squad",
+        "year": 2016,
+        "ids": {
+            "trakt": 193079,
+            "slug": "suicide-squad-2016",
+            "imdb": "tt1386697",
+            "tmdb": 297761
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-01-20T13:12:00.000Z",
+    "last_updated_at": "2016-01-21T12:12:58.000Z",
+    "movie": {
+        "title": "Bridge of Spies",
+        "year": 2015,
+        "ids": {
+            "trakt": 193081,
+            "slug": "bridge-of-spies-2015",
+            "imdb": "tt3682448",
+            "tmdb": 296098
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-02-21T21:14:02.000Z",
+    "last_updated_at": "2016-02-21T21:14:02.000Z",
+    "movie": {
+        "title": "The Taking of Deborah Logan",
+        "year": 2014,
+        "ids": {
+            "trakt": 193288,
+            "slug": "the-taking-of-deborah-logan-2014",
+            "imdb": "tt3387648",
+            "tmdb": 297608
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-02-11T00:22:47.000Z",
+    "last_updated_at": "2016-02-11T00:22:47.000Z",
+    "movie": {
+        "title": "Spotlight",
+        "year": 2015,
+        "ids": {
+            "trakt": 194119,
+            "slug": "spotlight-2015",
+            "imdb": "tt1895587",
+            "tmdb": 314365
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-06-21T22:00:00.000Z",
+    "last_updated_at": "2016-06-22T07:03:05.000Z",
+    "movie": {
+        "title": "The Stanford Prison Experiment",
+        "year": 2015,
+        "ids": {
+            "trakt": 194481,
+            "slug": "the-stanford-prison-experiment-2015",
+            "imdb": "tt0420293",
+            "tmdb": 308032
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-02-19T00:00:00.000Z",
+    "last_updated_at": "2016-05-22T09:20:24.000Z",
+    "movie": {
+        "title": "The Witch",
+        "year": 2015,
+        "ids": {
+            "trakt": 196130,
+            "slug": "the-witch-2015",
+            "imdb": "tt4263482",
+            "tmdb": 310131
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2015-10-23T00:00:00.000Z",
+    "last_updated_at": "2016-01-17T14:26:07.000Z",
+    "movie": {
+        "title": "Burnt",
+        "year": 2015,
+        "ids": {
+            "trakt": 196651,
+            "slug": "burnt-2015",
+            "imdb": "tt2503944",
+            "tmdb": 295964
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-04-15T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T10:01:45.000Z",
+    "movie": {
+        "title": "Colonia",
+        "year": 2016,
+        "ids": {
+            "trakt": 199499,
+            "slug": "colonia-2016",
+            "imdb": "tt4005402",
+            "tmdb": 318781
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-10-20T17:39:39.000Z",
+    "last_updated_at": "2016-10-20T17:39:39.000Z",
+    "movie": {
+        "title": "The Big Short",
+        "year": 2015,
+        "ids": {
+            "trakt": 199563,
+            "slug": "the-big-short-2015",
+            "imdb": "tt1596363",
+            "tmdb": 318846
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-02-07T21:19:05.000Z",
+    "last_updated_at": "2016-02-07T21:19:05.000Z",
+    "movie": {
+        "title": "Steve Jobs",
+        "year": 2015,
+        "ids": {
+            "trakt": 202637,
+            "slug": "steve-jobs-2015",
+            "imdb": "tt2080374",
+            "tmdb": 321697
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-01-01T19:51:15.000Z",
+    "last_updated_at": "2017-01-01T19:51:15.000Z",
+    "movie": {
+        "title": "The Accountant",
+        "year": 2016,
+        "ids": {
+            "trakt": 203309,
+            "slug": "the-accountant-2016",
+            "imdb": "tt2140479",
+            "tmdb": 302946
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-01-22T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T10:01:53.000Z",
+    "movie": {
+        "title": "Terminus",
+        "year": 2015,
+        "ids": {
+            "trakt": 203416,
+            "slug": "terminus-2015",
+            "imdb": "tt3399896",
+            "tmdb": 301729
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-03-28T12:49:00.000Z",
+    "last_updated_at": "2016-03-30T11:49:39.000Z",
+    "movie": {
+        "title": "Belle et Tordu",
+        "year": 2015,
+        "ids": {
+            "trakt": 203419,
+            "slug": "belle-et-tordu-2015",
+            "imdb": "tt3881768",
+            "tmdb": 322766
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-04-15T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:54:06.000Z",
+    "movie": {
+        "title": "Criminal",
+        "year": 2016,
+        "ids": {
+            "trakt": 204299,
+            "slug": "criminal-2016",
+            "imdb": "tt3014866",
+            "tmdb": 302156
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-01-09T23:30:34.000Z",
+    "last_updated_at": "2017-01-09T23:30:34.000Z",
+    "movie": {
+        "title": "Race",
+        "year": 2016,
+        "ids": {
+            "trakt": 204311,
+            "slug": "race-2016",
+            "imdb": "tt3499096",
+            "tmdb": 323677
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-05-20T00:00:00.000Z",
+    "last_updated_at": "2016-08-20T09:53:38.000Z",
+    "movie": {
+        "title": "Neighbors 2: Sorority Rising",
+        "year": 2016,
+        "ids": {
+            "trakt": 205673,
+            "slug": "neighbors-2-sorority-rising-2016",
+            "imdb": "tt4438848",
+            "tmdb": 325133
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-05-13T00:00:00.000Z",
+    "last_updated_at": "2016-05-22T09:24:19.000Z",
+    "movie": {
+        "title": "The Trust",
+        "year": 2016,
+        "ids": {
+            "trakt": 208830,
+            "slug": "the-trust-2016",
+            "imdb": "tt3733774",
+            "tmdb": 301608
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-10-25T15:32:21.000Z",
+    "last_updated_at": "2016-10-25T15:32:21.000Z",
+    "movie": {
+        "title": "Nerve",
+        "year": 2016,
+        "ids": {
+            "trakt": 209281,
+            "slug": "nerve-2016",
+            "imdb": "tt3531824",
+            "tmdb": 328387
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-08-21T22:47:13.000Z",
+    "last_updated_at": "2016-08-21T22:47:13.000Z",
+    "movie": {
+        "title": "The Gift",
+        "year": 2015,
+        "ids": {
+            "trakt": 209322,
+            "slug": "the-gift-2015-08-07",
+            "imdb": "tt4178092",
+            "tmdb": 328425
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2015-09-10T00:00:00.000Z",
+    "last_updated_at": "2016-05-22T09:24:59.000Z",
+    "movie": {
+        "title": "Suck Me Shakespeer 2",
+        "year": 2015,
+        "ids": {
+            "trakt": 210188,
+            "slug": "suck-me-shakespeer-2-2015",
+            "imdb": "tt3702996",
+            "tmdb": 329263
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-02-02T20:15:00.000Z",
+    "last_updated_at": "2017-02-03T17:06:21.000Z",
+    "movie": {
+        "title": "Arrival",
+        "year": 2016,
+        "ids": {
+            "trakt": 210803,
+            "slug": "arrival-2016",
+            "imdb": "tt2543164",
+            "tmdb": 329865
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-06-29T18:16:41.000Z",
+    "last_updated_at": "2017-06-29T18:16:41.000Z",
+    "movie": {
+        "title": "Secrets of Scotland Yard",
+        "year": 2013,
+        "ids": {
+            "trakt": 213081,
+            "slug": "secrets-of-scotland-yard-2013",
+            "imdb": "tt4239738",
+            "tmdb": 332218
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-03-11T00:00:00.000Z",
+    "last_updated_at": "2016-05-22T09:19:41.000Z",
+    "movie": {
+        "title": "10 Cloverfield Lane",
+        "year": 2016,
+        "ids": {
+            "trakt": 214312,
+            "slug": "10-cloverfield-lane-2016",
+            "imdb": "tt1179933",
+            "tmdb": 333371
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-12-22T00:00:00.000Z",
+    "last_updated_at": "2018-01-20T15:34:58.000Z",
+    "movie": {
+        "title": "Downsizing",
+        "year": 2017,
+        "ids": {
+            "trakt": 214603,
+            "slug": "downsizing-2017",
+            "imdb": "tt1389072",
+            "tmdb": 301337
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2015-11-13T00:00:00.000Z",
+    "last_updated_at": "2016-05-22T09:26:16.000Z",
+    "movie": {
+        "title": "Heist",
+        "year": 2015,
+        "ids": {
+            "trakt": 216730,
+            "slug": "heist-2015",
+            "imdb": "tt3276924",
+            "tmdb": 336004
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-04-14T00:00:00.000Z",
+    "last_updated_at": "2017-04-23T20:20:53.000Z",
+    "movie": {
+        "title": "The Fate of the Furious",
+        "year": 2017,
+        "ids": {
+            "trakt": 217936,
+            "slug": "the-fate-of-the-furious-2017",
+            "imdb": "tt4630562",
+            "tmdb": 337339
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2015-04-30T00:00:00.000Z",
+    "last_updated_at": "2016-01-17T14:16:21.000Z",
+    "movie": {
+        "title": "Argo 2",
+        "year": 2015,
+        "ids": {
+            "trakt": 218859,
+            "slug": "argo-2-2015",
+            "imdb": "tt3117504",
+            "tmdb": 338312
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-11-13T22:16:22.000Z",
+    "last_updated_at": "2017-11-13T22:16:22.000Z",
+    "movie": {
+        "title": "The Man with the Iron Heart",
+        "year": 2017,
+        "ids": {
+            "trakt": 219713,
+            "slug": "the-man-with-the-iron-heart-2017",
+            "imdb": "tt3296908",
+            "tmdb": 339259
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-10-23T21:42:55.000Z",
+    "last_updated_at": "2017-10-23T21:42:55.000Z",
+    "movie": {
+        "title": "Baby Driver",
+        "year": 2017,
+        "ids": {
+            "trakt": 219867,
+            "slug": "baby-driver-2017",
+            "imdb": "tt3890160",
+            "tmdb": 339403
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-01-15T00:00:00.000Z",
+    "last_updated_at": "2016-08-19T07:31:56.000Z",
+    "movie": {
+        "title": "13 Hours: The Secret Soldiers of Benghazi",
+        "year": 2016,
+        "ids": {
+            "trakt": 219869,
+            "slug": "13-hours-the-secret-soldiers-of-benghazi-2016",
+            "imdb": "tt4172430",
+            "tmdb": 300671
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-01-24T16:21:30.000Z",
+    "last_updated_at": "2016-01-24T16:21:30.000Z",
+    "movie": {
+        "title": "Solace",
+        "year": 2015,
+        "ids": {
+            "trakt": 219987,
+            "slug": "solace-2015",
+            "imdb": "tt1291570",
+            "tmdb": 339527
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-10-24T06:58:36.000Z",
+    "last_updated_at": "2017-10-24T06:58:36.000Z",
+    "movie": {
+        "title": "The Circle",
+        "year": 2017,
+        "ids": {
+            "trakt": 220448,
+            "slug": "the-circle-2017",
+            "imdb": "tt4287320",
+            "tmdb": 339988
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2018-04-02T19:35:36.000Z",
+    "last_updated_at": "2018-04-02T19:35:36.000Z",
+    "movie": {
+        "title": "Annihilation",
+        "year": 2018,
+        "ids": {
+            "trakt": 220563,
+            "slug": "annihilation-2018",
+            "imdb": "tt2798920",
+            "tmdb": 300668
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-11-27T14:25:17.000Z",
+    "last_updated_at": "2016-11-27T14:25:17.000Z",
+    "movie": {
+        "title": "Anthropoid",
+        "year": 2016,
+        "ids": {
+            "trakt": 222071,
+            "slug": "anthropoid-2016",
+            "imdb": "tt4190530",
+            "tmdb": 351339
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-05-29T13:53:28.000Z",
+    "last_updated_at": "2016-05-29T13:53:28.000Z",
+    "movie": {
+        "title": "Mr. Right",
+        "year": 2016,
+        "ids": {
+            "trakt": 223202,
+            "slug": "mr-right-2016",
+            "imdb": "tt2091935",
+            "tmdb": 333385
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-01-15T18:08:13.000Z",
+    "last_updated_at": "2017-01-15T18:08:13.000Z",
+    "movie": {
+        "title": "The Girl on the Train",
+        "year": 2016,
+        "ids": {
+            "trakt": 224010,
+            "slug": "the-girl-on-the-train-2016",
+            "imdb": "tt3631112",
+            "tmdb": 346685
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-11-13T22:16:32.000Z",
+    "last_updated_at": "2017-11-13T22:16:32.000Z",
+    "movie": {
+        "title": "Atomic Blonde",
+        "year": 2017,
+        "ids": {
+            "trakt": 224157,
+            "slug": "atomic-blonde-2017",
+            "imdb": "tt2406566",
+            "tmdb": 341013
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-01-10T15:23:00.000Z",
+    "last_updated_at": "2016-01-17T14:23:25.000Z",
+    "movie": {
+        "title": "Anguish",
+        "year": 2015,
+        "ids": {
+            "trakt": 224211,
+            "slug": "anguish-2015",
+            "imdb": "tt3620762",
+            "tmdb": 347944
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-08-24T22:07:03.000Z",
+    "last_updated_at": "2016-08-24T22:07:03.000Z",
+    "movie": {
+        "title": "Imperium",
+        "year": 2016,
+        "ids": {
+            "trakt": 224616,
+            "slug": "imperium-2016",
+            "imdb": "tt4781612",
+            "tmdb": 374617
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-07-09T15:00:00.000Z",
+    "last_updated_at": "2016-07-10T14:00:57.000Z",
+    "movie": {
+        "title": "A Conspiracy of Faith",
+        "year": 2016,
+        "ids": {
+            "trakt": 224796,
+            "slug": "a-conspiracy-of-faith-2016",
+            "imdb": "tt4088268",
+            "tmdb": 348668
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-10-23T19:33:14.000Z",
+    "last_updated_at": "2016-10-23T19:33:14.000Z",
+    "movie": {
+        "title": "Lights Out",
+        "year": 2016,
+        "ids": {
+            "trakt": 224801,
+            "slug": "lights-out-2016",
+            "imdb": "tt4786282",
+            "tmdb": 345911
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-11-21T22:05:39.000Z",
+    "last_updated_at": "2016-11-21T22:05:39.000Z",
+    "movie": {
+        "title": "Don't Breathe",
+        "year": 2016,
+        "ids": {
+            "trakt": 224812,
+            "slug": "don-t-breathe-2016",
+            "imdb": "tt4160708",
+            "tmdb": 300669
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-07-29T00:00:00.000Z",
+    "last_updated_at": "2016-10-25T20:26:24.000Z",
+    "movie": {
+        "title": "Bad Moms",
+        "year": 2016,
+        "ids": {
+            "trakt": 226615,
+            "slug": "bad-moms-2016",
+            "imdb": "tt4651520",
+            "tmdb": 376659
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-11-06T22:16:38.000Z",
+    "last_updated_at": "2016-11-06T22:16:38.000Z",
+    "movie": {
+        "title": "Hush",
+        "year": 2016,
+        "ids": {
+            "trakt": 228121,
+            "slug": "hush-2016",
+            "imdb": "tt5022702",
+            "tmdb": 376570
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-02-12T17:12:12.000Z",
+    "last_updated_at": "2017-02-12T17:12:12.000Z",
+    "movie": {
+        "title": "Beware the Slenderman",
+        "year": 2016,
+        "ids": {
+            "trakt": 228726,
+            "slug": "beware-the-slenderman-2016",
+            "imdb": "tt5329376",
+            "tmdb": 376424
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-01-27T15:00:00.000Z",
+    "last_updated_at": "2016-05-29T11:49:41.000Z",
+    "movie": {
+        "title": "All the Way",
+        "year": 2016,
+        "ids": {
+            "trakt": 231247,
+            "slug": "all-the-way-2016",
+            "imdb": "tt3791216",
+            "tmdb": 347123
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2018-02-08T12:33:48.000Z",
+    "last_updated_at": "2018-02-08T12:33:48.000Z",
+    "movie": {
+        "title": "The Cloverfield Paradox",
+        "year": 2018,
+        "ids": {
+            "trakt": 233151,
+            "slug": "the-cloverfield-paradox-2018",
+            "imdb": "tt2548396",
+            "tmdb": 384521
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-10-27T07:05:21.000Z",
+    "last_updated_at": "2016-10-27T07:05:21.000Z",
+    "movie": {
+        "title": "Jack Goes Home",
+        "year": 2016,
+        "ids": {
+            "trakt": 234720,
+            "slug": "jack-goes-home-2016",
+            "imdb": "tt4797436",
+            "tmdb": 381935
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-05-20T19:15:00.000Z",
+    "last_updated_at": "2016-05-29T11:50:43.000Z",
+    "movie": {
+        "title": "Sacrifice",
+        "year": 2016,
+        "ids": {
+            "trakt": 237429,
+            "slug": "sacrifice-2016",
+            "imdb": "tt2078718",
+            "tmdb": 394661
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-06-15T17:37:08.000Z",
+    "last_updated_at": "2017-06-15T17:37:08.000Z",
+    "movie": {
+        "title": "The Wizard of Lies",
+        "year": 2017,
+        "ids": {
+            "trakt": 239231,
+            "slug": "the-wizard-of-lies-2017",
+            "imdb": "tt1933667",
+            "tmdb": 363992
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-01-29T15:48:41.000Z",
+    "last_updated_at": "2017-01-29T15:48:41.000Z",
+    "movie": {
+        "title": "Sully",
+        "year": 2016,
+        "ids": {
+            "trakt": 241110,
+            "slug": "sully-2016",
+            "imdb": "tt3263904",
+            "tmdb": 363676
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2019-11-01T00:00:00.000Z",
+    "last_updated_at": "2019-12-28T17:18:40.000Z",
+    "movie": {
+        "title": "The Irishman",
+        "year": 2019,
+        "ids": {
+            "trakt": 242125,
+            "slug": "the-irishman-2019",
+            "imdb": "tt1302006",
+            "tmdb": 398978
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-01-20T00:00:00.000Z",
+    "last_updated_at": "2017-01-27T21:07:19.000Z",
+    "movie": {
+        "title": "Split",
+        "year": 2017,
+        "ids": {
+            "trakt": 254263,
+            "slug": "split-2017",
+            "imdb": "tt4972582",
+            "tmdb": 381288
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-10-23T15:36:06.000Z",
+    "last_updated_at": "2016-10-23T15:36:06.000Z",
+    "movie": {
+        "title": "Amanda Knox",
+        "year": 2016,
+        "ids": {
+            "trakt": 256649,
+            "slug": "amanda-knox-2016",
+            "imdb": "tt5952332",
+            "tmdb": 411009
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2016-12-25T18:49:09.000Z",
+    "last_updated_at": "2016-12-25T18:49:09.000Z",
+    "movie": {
+        "title": "The Autopsy of Jane Doe",
+        "year": 2016,
+        "ids": {
+            "trakt": 256765,
+            "slug": "the-autopsy-of-jane-doe-2016",
+            "imdb": "tt3289956",
+            "tmdb": 397243
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-12-15T20:44:53.000Z",
+    "last_updated_at": "2017-12-15T20:44:53.000Z",
+    "movie": {
+        "title": "OtherLife",
+        "year": 2017,
+        "ids": {
+            "trakt": 257504,
+            "slug": "otherlife-2017",
+            "imdb": "tt4693358",
+            "tmdb": 411999
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-10-23T21:43:45.000Z",
+    "last_updated_at": "2017-10-23T21:43:45.000Z",
+    "movie": {
+        "title": "Wakefield",
+        "year": 2017,
+        "ids": {
+            "trakt": 258813,
+            "slug": "wakefield-2017",
+            "imdb": "tt5195412",
+            "tmdb": 369894
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-11-30T20:36:23.000Z",
+    "last_updated_at": "2017-11-30T20:36:23.000Z",
+    "movie": {
+        "title": "ARQ",
+        "year": 2016,
+        "ids": {
+            "trakt": 258909,
+            "slug": "arq-2016",
+            "imdb": "tt5640450",
+            "tmdb": 410199
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-11-10T00:00:00.000Z",
+    "last_updated_at": "2018-03-31T17:05:37.000Z",
+    "movie": {
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "year": 2017,
+        "ids": {
+            "trakt": 266092,
+            "slug": "three-billboards-outside-ebbing-missouri-2017",
+            "imdb": "tt5027774",
+            "tmdb": 359940
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-11-23T17:34:51.000Z",
+    "last_updated_at": "2017-11-23T17:34:51.000Z",
+    "movie": {
+        "title": "Gerald's Game",
+        "year": 2017,
+        "ids": {
+            "trakt": 266285,
+            "slug": "gerald-s-game-2017",
+            "imdb": "tt3748172",
+            "tmdb": 343674
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-06-15T20:33:11.000Z",
+    "last_updated_at": "2017-06-15T20:33:11.000Z",
+    "movie": {
+        "title": "Strangled",
+        "year": 2016,
+        "ids": {
+            "trakt": 271069,
+            "slug": "strangled-2016",
+            "imdb": "tt4975280",
+            "tmdb": 426958
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2018-09-30T17:39:40.000Z",
+    "last_updated_at": "2018-09-30T17:39:40.000Z",
+    "movie": {
+        "title": "UFO",
+        "year": 2018,
+        "ids": {
+            "trakt": 271097,
+            "slug": "ufo-2018",
+            "imdb": "tt6290798",
+            "tmdb": 426865
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-10-18T15:57:27.000Z",
+    "last_updated_at": "2017-10-18T15:57:27.000Z",
+    "movie": {
+        "title": "Happy Death Day",
+        "year": 2017,
+        "ids": {
+            "trakt": 285894,
+            "slug": "happy-death-day-2017",
+            "imdb": "tt5308322",
+            "tmdb": 440021
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2018-09-14T18:01:00.000Z",
+    "last_updated_at": "2018-09-17T16:02:04.000Z",
+    "movie": {
+        "title": "The Post",
+        "year": 2017,
+        "ids": {
+            "trakt": 292956,
+            "slug": "the-post-2017",
+            "imdb": "tt6294822",
+            "tmdb": 446354
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2018-09-15T18:02:00.000Z",
+    "last_updated_at": "2018-09-17T16:02:29.000Z",
+    "movie": {
+        "title": "A Quiet Place",
+        "year": 2018,
+        "ids": {
+            "trakt": 293955,
+            "slug": "a-quiet-place-2018",
+            "imdb": "tt6644200",
+            "tmdb": 447332
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-09-26T13:21:25.000Z",
+    "last_updated_at": "2017-09-26T13:21:25.000Z",
+    "movie": {
+        "title": "Shimmer Lake",
+        "year": 2017,
+        "ids": {
+            "trakt": 304156,
+            "slug": "shimmer-lake-2017",
+            "imdb": "tt1386691",
+            "tmdb": 457962
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2017-10-23T21:43:57.000Z",
+    "last_updated_at": "2017-10-23T21:43:57.000Z",
+    "movie": {
+        "title": "1922",
+        "year": 2017,
+        "ids": {
+            "trakt": 317337,
+            "slug": "1922-2017",
+            "imdb": "tt6214928",
+            "tmdb": 452507
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2018-01-20T15:35:25.000Z",
+    "last_updated_at": "2018-01-20T15:35:25.000Z",
+    "movie": {
+        "title": "The Open House",
+        "year": 2018,
+        "ids": {
+            "trakt": 332966,
+            "slug": "the-open-house-2018",
+            "imdb": "tt7608028",
+            "tmdb": 485774
+        }
+    }
+}, {
+    "plays": 1,
+    "last_watched_at": "2019-10-11T00:00:00.000Z",
+    "last_updated_at": "2019-11-10T17:01:54.000Z",
+    "movie": {
+        "title": "El Camino: A Breaking Bad Movie",
+        "year": 2019,
+        "ids": {
+            "trakt": 410927,
+            "slug": "el-camino-a-breaking-bad-movie-2019",
+            "imdb": "tt9243946",
+            "tmdb": 559969
+        }
+    }
+}]

@@ -5,8 +5,11 @@ import React from 'react'
 * @function Main
 * */
 
-const Main = () => (
-	<div>Main</div>
-)
+// eslint-disable-next-line arrow-body-style
+const Main = () => {
+	return (
+		<div>Main</div>
+	)
+}
 
 export default Main
