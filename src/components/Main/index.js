@@ -8,9 +8,8 @@ import { watchHistory } from '../../utils/fakeApi/getViewHistory'
 * */
 
 const Main = () => {
-	const historyData = watchHistory.getWatchHistory()
-	// eslint-disable-next-line no-console
-	console.debug('historyData', historyData)
+	// eslint-disable-next-line no-unused-vars
+	const thisYearShow = watchHistory.getWatchHistory()
 	return (
 		<div>Main</div>
 	)
