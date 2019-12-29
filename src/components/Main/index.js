@@ -1,6 +1,6 @@
 /* eslint-disable react/no-array-index-key */
 /* eslint-disable no-console */
-import React from 'react'
+import React, { useState } from 'react'
 import {
 	PieChart, Pie, Cell,
 } from 'recharts'
@@ -41,6 +41,7 @@ const Main = () => {
 	const thisYearGenre = watchHistory.getGenre()
 	const dispatch = useDispatch()
 	const store = useStore()
+	const [genresData, setGenresData] = useState(null)
 	Promise.all([
 		getShowDetails(thisYearGenre),
 	]).then(result => {
@@ -58,48 +59,78 @@ const Main = () => {
 		}, {})
 		distinctGenres = Object.keys(distinctGenres).map(currGenre => ({
 			name: currGenre,
-			coun: distinctGenres[currGenre],
+			count: distinctGenres[currGenre],
 		}))
+		setGenresData(distinctGenres)
 	})
 	return (
-		<div className={styles.chartContainer}>
-			<PieChart
-				width={400}
-				height={400}
-			>
-				<Pie
-					data={thisYearShow.slice(0, 10)}
-					cx={180}
-					cy={200}
-					innerRadius={60}
-					outerRadius={120}
-					fill="#8884d8"
-					paddingAngle={0}
-					dataKey="value"
-					label
+		<>
+			<div className={styles.chartContainer}>
+				<PieChart
+					width={400}
+					height={400}
 				>
+					<Pie
+						data={thisYearShow.slice(0, 10)}
+						cx={180}
+						cy={200}
+						innerRadius={60}
+						outerRadius={120}
+						fill="#8884d8"
+						paddingAngle={0}
+						dataKey="value"
+						label
+					>
+						{
+							thisYearShow.map((entry, index) => <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />)
+						}
+					</Pie>
+				</PieChart>
+				<div>
 					{
-						thisYearShow.map((entry, index) => <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />)
+						thisYearShow.slice(0, 10).map((curr, index) => (
+							<ColoredLabel key={`block-${index}`} color={COLORS[index % COLORS.length]}>
+								<p>
+									{thisYearShow[index].name}
+									<small>
+										{
+											`(${thisYearShow[index].value})`
+										}
+									</small>
+								</p>
+							</ColoredLabel>
+						))
 					}
-				</Pie>
-			</PieChart>
-			<div>
-				{
-					thisYearShow.slice(0, 10).map((curr, index) => (
-						<ColoredLabel key={`block-${index}`} color={COLORS[index % COLORS.length]}>
-							<p>
-								{thisYearShow[index].name}
-								<small>
-									{
-										`(${thisYearShow[index].value})`
-									}
-								</small>
-							</p>
-						</ColoredLabel>
-					))
-				}
+				</div>
 			</div>
-		</div>
+			<div className={styles.chartContainer}>
+				<PieChart
+					width={400}
+					height={400}
+				>
+					<Pie
+						data={genresData}
+						cx={180}
+						cy={200}
+						innerRadius={60}
+						outerRadius={120}
+						fill="#8884d8"
+						paddingAngle={0}
+						dataKey="count"
+						label
+					>
+						{
+							thisYearShow.map((entry, index) => <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />)
+						}
+					</Pie>
+				</PieChart>
+				<div>
+					<p>
+						lorem
+					</p>
+				</div>
+			</div>
+		</>
 	)
 }
 
