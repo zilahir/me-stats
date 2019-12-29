@@ -7,6 +7,7 @@ import {
 import styled from 'styled-components'
 
 import { watchHistory } from '../../utils/fakeApi/getViewHistory'
+import { getShowDetails } from '../../store/actions/getShowDetails'
 import styles from './Main.module.scss'
 
 /**
@@ -37,7 +38,11 @@ const ColoredLabel = styled.div`
 const Main = () => {
 	const thisYearShow = watchHistory.getShowPlayCount()
 	const thisYearGenre = watchHistory.getGenre()
-	console.debug('thisYearGenre', thisYearGenre)
+	Promise.all([
+		getShowDetails(thisYearGenre),
+	]).then(result => {
+		console.debug('result', result)
+	})
 	return (
 		<div className={styles.chartContainer}>
 			<PieChart
