@@ -40,9 +40,7 @@ const Main = () => {
 	const thisYearGenre = watchHistory.getGenre()
 	Promise.all([
 		getShowDetails(thisYearGenre),
-	]).then(result => {
-		console.debug('result', result)
-	})
+	])
 	return (
 		<div className={styles.chartContainer}>
 			<PieChart
@@ -71,11 +69,11 @@ const Main = () => {
 						<ColoredLabel key={`block-${index}`} color={COLORS[index % COLORS.length]}>
 							<p>
 								{thisYearShow[index].name}
-								<smalL>
+								<small>
 									{
 										`(${thisYearShow[index].value})`
 									}
-								</smalL>
+								</small>
 							</p>
 						</ColoredLabel>
 					))

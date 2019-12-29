@@ -20,7 +20,7 @@ export const getShowDetails = ids => dispatch => new Promise(resolve => {
 	}
 	Promise.all(promiseArr)
 		.then(res => {
-			dispatch(res[0])
-			resolve(res)
+			dispatch(setShowDetails(res[0]))
+			resolve()
 		})
 })
