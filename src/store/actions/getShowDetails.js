@@ -2,7 +2,7 @@ import axios from 'axios'
 
 import { apiEndpoints } from '../../utils/apiEndpoints'
 
-export const refreshToken = ids => new Promise(resolve => {
+export const getShowDetails = ids => new Promise(resolve => {
 	const promiseArr = []
 	for (let i = 0; i < ids.length; i += 1) {
 		promiseArr.push(new Promise(res => {
