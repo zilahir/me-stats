@@ -36,7 +36,8 @@ const ColoredLabel = styled.div`
 
 const Main = () => {
 	const thisYearShow = watchHistory.getShowPlayCount()
-
+	const thisYearGenre = watchHistory.getGenre()
+	console.debug('thisYearGenre', thisYearGenre)
 	return (
 		<div className={styles.chartContainer}>
 			<PieChart

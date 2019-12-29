@@ -27,4 +27,12 @@ export const watchHistory = {
 		))
 		return orderBy(arr, ['plays'], ['desc'])
 	},
+	getGenre() {
+		const showHistory = this.getShowHistory()
+		const ids = []
+		for (let i = 0; i < showHistory.length; i += 1) {
+			ids.push(showHistory[i].show.ids.tmdb)
+		}
+		return ids
+	},
 }
