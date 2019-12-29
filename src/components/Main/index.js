@@ -52,11 +52,14 @@ const Main = () => {
 				genres.push(currGenres)
 			})
 		})
-		const distinctGenres = genres.reduce((acc, curr) => {
+		let distinctGenres = genres.reduce((acc, curr) => {
 			acc[curr.name] = acc[curr.name] ? acc[curr.name] + 1 : 1
 			return acc
 		}, {})
-		console.debug('genres', distinctGenres)
+		distinctGenres = Object.keys(distinctGenres).map(currGenre => ({
+			name: currGenre,
+			coun: distinctGenres[currGenre],
+		}))
 	})
 	return (
 		<div className={styles.chartContainer}>
