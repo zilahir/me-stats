@@ -5,7 +5,7 @@ import {
 	PieChart, Pie, Cell,
 } from 'recharts'
 import styled from 'styled-components'
-import { useDispatch } from 'react-redux'
+import { useDispatch, useStore } from 'react-redux'
 
 import { watchHistory } from '../../utils/fakeApi/getViewHistory'
 import { getShowDetails, setShowDetails } from '../../store/actions/getShowDetails'
@@ -40,10 +40,18 @@ const Main = () => {
 	const thisYearShow = watchHistory.getShowPlayCount()
 	const thisYearGenre = watchHistory.getGenre()
 	const dispatch = useDispatch()
+	const store = useStore()
 	Promise.all([
 		getShowDetails(thisYearGenre),
 	]).then(result => {
 		dispatch(setShowDetails(result[0]))
+		const shows = store.getState().showDetails.showDetails
+		const genres = []
+		shows.forEach(currShow => {
+			currShow.genres.forEach(currGenres => {
+				genres.push(currGenres)
+			})
+		})
 	})
 	return (
 		<div className={styles.chartContainer}>
