@@ -28,7 +28,7 @@ export const watchHistory = {
 		return orderBy(arr, ['plays'], ['desc'])
 	},
 	getGenre() {
-		const showHistory = this.getShowHistory()
+		const showHistory = this.getShowPlayCount().slice(0, 10)
 		const ids = []
 		for (let i = 0; i < showHistory.length; i += 1) {
 			ids.push(showHistory[i].show.ids.tmdb)

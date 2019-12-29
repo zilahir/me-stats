@@ -5,9 +5,10 @@ import {
 	PieChart, Pie, Cell,
 } from 'recharts'
 import styled from 'styled-components'
+import { useDispatch } from 'react-redux'
 
 import { watchHistory } from '../../utils/fakeApi/getViewHistory'
-import { getShowDetails } from '../../store/actions/getShowDetails'
+import { getShowDetails, setShowDetails } from '../../store/actions/getShowDetails'
 import styles from './Main.module.scss'
 
 /**
@@ -38,9 +39,12 @@ const ColoredLabel = styled.div`
 const Main = () => {
 	const thisYearShow = watchHistory.getShowPlayCount()
 	const thisYearGenre = watchHistory.getGenre()
+	const dispatch = useDispatch()
 	Promise.all([
 		getShowDetails(thisYearGenre),
-	])
+	]).then(result => {
+		dispatch(setShowDetails(result[0]))
+	})
 	return (
 		<div className={styles.chartContainer}>
 			<PieChart
