@@ -53,7 +53,7 @@ export const watchHistory = {
 		delete distinctDates['2019-11-10']
 		distinctDates = Object.keys(distinctDates).map(key => ({
 			name: key,
-			counter: distinctDates[key],
+			episodes: distinctDates[key],
 		}))
 		return distinctDates
 	},
