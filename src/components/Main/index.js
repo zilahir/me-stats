@@ -83,7 +83,7 @@ const Main = () => {
 			<section className={styles.section}>
 				<div className={styles.headerContainer}>
 					<h1 className={styles.header}>
-						lorem ipsum
+						Statistics of series
 					</h1>
 				</div>
 				<div className={styles.chartContainer}>
@@ -133,7 +133,7 @@ const Main = () => {
 			<section className={styles.section}>
 				<div className={styles.headerContainer}>
 					<h1 className={styles.header}>
-						lorem ipsum
+						Statistics of genres of series
 					</h1>
 				</div>
 				<div className={styles.chartContainer}>

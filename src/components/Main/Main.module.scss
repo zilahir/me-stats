@@ -2,6 +2,7 @@
 
 section {
     &.section {
+        padding: 100px 180px;
         .headerContainer {
             .header {
                 @include headerH1;
