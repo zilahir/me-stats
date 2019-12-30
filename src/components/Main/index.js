@@ -83,7 +83,7 @@ const Main = () => {
 			<section className={styles.section}>
 				<div className={styles.headerContainer}>
 					<h1 className={styles.header}>
-						Statistics of series
+						Statistics of series watched
 					</h1>
 				</div>
 				<div className={styles.chartContainer}>
