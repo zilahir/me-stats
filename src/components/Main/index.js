@@ -68,6 +68,12 @@ const Main = () => {
 			setMostViewedDaysData(mostViewDays)
 		})
 	}, [dispatch, store])
+
+	function renderTick(tick) {
+		const date = new Date(tick)
+		const tooltip = `${date.toLocaleString('default', { month: 'long' })} ${date.getDate()}`
+		return tooltip
+	}
 	return (
 		<>
 			<div className={styles.chartContainer}>
@@ -160,7 +166,10 @@ const Main = () => {
 						top: 5, right: 30, left: 20, bottom: 5,
 					}}
 				>
-					<XAxis dataKey="name" />
+					<XAxis
+						dataKey="name"
+						tickFormatter={renderTick}
+					/>
 					<YAxis />
 					<Tooltip />
 					<Line type="monotone" dataKey="counter" stroke="#8884d8" activeDot={{ r: 8 }} />
