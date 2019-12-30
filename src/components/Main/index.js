@@ -37,12 +37,13 @@ const ColoredLabel = styled.div`
 `
 
 const Main = () => {
-	const thisYearShow = watchHistory.getShowPlayCount()
-	const thisYearGenre = watchHistory.getGenre()
 	const dispatch = useDispatch()
 	const store = useStore()
 	const [genresData, setGenresData] = useState(null)
+	const [thisYearShow, setThisYearShow] = useState(null)
 	useEffect(() => {
+		const thisYearGenre = watchHistory.getGenre()
+		setThisYearShow(watchHistory.getShowPlayCount())
 		Promise.all([
 			getShowDetails(thisYearGenre),
 		]).then(result => {
@@ -65,6 +66,7 @@ const Main = () => {
 			setGenresData(distinctGenres)
 		})
 	}, [])
+	console.debug('genres', genresData)
 	return (
 		<>
 			<div className={styles.chartContainer}>
@@ -73,7 +75,7 @@ const Main = () => {
 					height={400}
 				>
 					<Pie
-						data={thisYearShow.slice(0, 10)}
+						data={thisYearShow ? thisYearShow.slice(0, 10) : null}
 						cx={180}
 						cy={200}
 						innerRadius={60}
@@ -84,24 +86,28 @@ const Main = () => {
 						label
 					>
 						{
-							thisYearShow.map((entry, index) => <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />)
+							thisYearShow ? thisYearShow.map((entry, index) => <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />) : null
 						}
 					</Pie>
 				</PieChart>
 				<div>
 					{
-						thisYearShow.slice(0, 10).map((curr, index) => (
-							<ColoredLabel key={`block-${index}`} color={COLORS[index % COLORS.length]}>
-								<p>
-									{thisYearShow[index].name}
-									<small>
-										{
-											`(${thisYearShow[index].value})`
-										}
-									</small>
-								</p>
-							</ColoredLabel>
-						))
+						thisYearShow
+							? (
+								thisYearShow.slice(0, 10).map((curr, index) => (
+									<ColoredLabel key={`block-${index}`} color={COLORS[index % COLORS.length]}>
+										<p>
+											{thisYearShow[index].name}
+											<small>
+												{
+													`(${thisYearShow[index].value})`
+												}
+											</small>
+										</p>
+									</ColoredLabel>
+								))
+							)
+							: null
 					}
 				</div>
 			</div>
@@ -122,14 +128,24 @@ const Main = () => {
 						label
 					>
 						{
-							thisYearShow.map((entry, index) => <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />)
+							genresData ? genresData.map((entry, index) => <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />) : null
 						}
 					</Pie>
 				</PieChart>
 				<div>
-					<p>
-						lorem
-					</p>
+					{
+						genresData
+							? (
+								genresData.map((curr, index) => (
+									<ColoredLabel key={`block-${index}`} color={COLORS[index % COLORS.length]}>
+										<p>
+											{curr.name}
+										</p>
+									</ColoredLabel>
+								))
+							)
+							: null
+					}
 				</div>
 			</div>
 		</>
