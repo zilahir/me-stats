@@ -82,13 +82,14 @@ const Main = () => {
 						paddingAngle={0}
 						dataKey="value"
 						label
+						isAnimationActive={false}
 					>
 						{
 							thisYearShow ? thisYearShow.map((entry, index) => <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />) : null
 						}
 					</Pie>
 				</PieChart>
-				<div>
+				<div className={styles.labelContainer}>
 					{
 						thisYearShow
 							? (
@@ -124,13 +125,14 @@ const Main = () => {
 						paddingAngle={0}
 						dataKey="count"
 						label
+						isAnimationActive={false}
 					>
 						{
 							genresData ? genresData.map((entry, index) => <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />) : null
 						}
 					</Pie>
 				</PieChart>
-				<div>
+				<div className={styles.labelContainer}>
 					{
 						genresData
 							? (
