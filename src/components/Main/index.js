@@ -4,10 +4,12 @@ import {
 	PieChart, Pie, Cell, LineChart, Line, XAxis, YAxis, Tooltip,
 } from 'recharts'
 import styled from 'styled-components'
+import hexToRgba from 'hex-to-rgba'
 import { useDispatch, useStore } from 'react-redux'
 
 import { watchHistory } from '../../utils/fakeApi/getViewHistory'
 import { getShowDetails, setShowDetails } from '../../store/actions/getShowDetails'
+import { baseColor } from '../../utils/consts'
 import styles from './Main.module.scss'
 
 /**
@@ -15,7 +17,9 @@ import styles from './Main.module.scss'
 * @function Main
 * */
 
-const COLORS = ['#0088FE', '#00C49F', '#FFBB28', '#FF8042']
+const COLORS = Array(10).fill().map((curr, index) => (
+	hexToRgba(baseColor, 1 - index * 0.1)
+))
 
 const ColoredLabel = styled.div`
 	display: flex;
@@ -87,7 +91,7 @@ const Main = () => {
 						cy={200}
 						innerRadius={60}
 						outerRadius={120}
-						fill="#8884d8"
+						fill={baseColor}
 						paddingAngle={0}
 						dataKey="value"
 						label
@@ -130,7 +134,7 @@ const Main = () => {
 						cy={200}
 						innerRadius={60}
 						outerRadius={120}
-						fill="#8884d8"
+						fill={baseColor}
 						paddingAngle={0}
 						dataKey="count"
 						label
@@ -175,7 +179,7 @@ const Main = () => {
 					<Line
 						type="monotone"
 						dataKey="episodes"
-						stroke="#8884d8"
+						stroke={baseColor}
 						activeDot={{ r: 8 }}
 						strokeWidth={2}
 					/>
