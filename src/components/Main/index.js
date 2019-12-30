@@ -99,7 +99,7 @@ const Main = () => {
 											{thisYearShow[index].name}
 											<small>
 												{
-													`(${thisYearShow[index].value})`
+													` (${thisYearShow[index].value})`
 												}
 											</small>
 										</p>
