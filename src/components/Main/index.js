@@ -80,49 +80,56 @@ const Main = () => {
 	}
 	return (
 		<>
-			<div className={styles.chartContainer}>
-				<PieChart
-					width={400}
-					height={400}
-				>
-					<Pie
-						data={thisYearShow ? thisYearShow.slice(0, 10) : null}
-						cx={180}
-						cy={200}
-						innerRadius={60}
-						outerRadius={120}
-						fill={baseColor}
-						paddingAngle={0}
-						dataKey="value"
-						label
-						isAnimationActive={false}
-					>
-						{
-							thisYearShow ? thisYearShow.map((entry, index) => <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />) : null
-						}
-					</Pie>
-				</PieChart>
-				<div className={styles.labelContainer}>
-					{
-						thisYearShow
-							? (
-								thisYearShow.slice(0, 10).map((curr, index) => (
-									<ColoredLabel key={`block-${index}`} color={COLORS[index % COLORS.length]}>
-										<p>
-											{thisYearShow[index].name}
-											<small>
-												{
-													` (${thisYearShow[index].value})`
-												}
-											</small>
-										</p>
-									</ColoredLabel>
-								))
-							)
-							: null
-					}
+			<section className={styles.section}>
+				<div className={styles.headerContainer}>
+					<h1 className={styles.header}>
+						lorem ipsum
+					</h1>
 				</div>
-			</div>
+				<div className={styles.chartContainer}>
+					<PieChart
+						width={400}
+						height={400}
+					>
+						<Pie
+							data={thisYearShow ? thisYearShow.slice(0, 10) : null}
+							cx={180}
+							cy={200}
+							innerRadius={60}
+							outerRadius={120}
+							fill={baseColor}
+							paddingAngle={0}
+							dataKey="value"
+							label
+							isAnimationActive={false}
+						>
+							{
+								thisYearShow ? thisYearShow.map((entry, index) => <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />) : null
+							}
+						</Pie>
+					</PieChart>
+					<div className={styles.labelContainer}>
+						{
+							thisYearShow
+								? (
+									thisYearShow.slice(0, 10).map((curr, index) => (
+										<ColoredLabel key={`block-${index}`} color={COLORS[index % COLORS.length]}>
+											<p>
+												{thisYearShow[index].name}
+												<small>
+													{
+														` (${thisYearShow[index].value})`
+													}
+												</small>
+											</p>
+										</ColoredLabel>
+									))
+								)
+								: null
+						}
+					</div>
+				</div>
+			</section>
 			<div className={styles.chartContainer}>
 				<PieChart
 					width={400}

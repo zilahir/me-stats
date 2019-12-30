@@ -1,3 +1,14 @@
+@import '../variables';
+
 @mixin headerH1($font-size: 32px) {
-    
+    font-family: 'Koho';
+    font-size: $font-size;
+    position: relative;
+    &:before {
+        content: '';
+        position: absolute;
+        width: 100px;
+        height: 2px;
+        background-color: $base-color;
+    }
 }

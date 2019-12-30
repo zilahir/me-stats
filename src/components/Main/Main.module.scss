@@ -1,7 +1,18 @@
-.chartContainer {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+@import '../../style/mixins/heading';
+
+section {
+    &.section {
+        .headerContainer {
+            .header {
+                @include headerH1;
+            }
+        }
+        .chartContainer {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    }
 }
 
 .labelContainer {
