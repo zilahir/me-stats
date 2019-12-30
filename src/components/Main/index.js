@@ -172,7 +172,13 @@ const Main = () => {
 					/>
 					<YAxis />
 					<Tooltip />
-					<Line type="monotone" dataKey="episodes" stroke="#8884d8" activeDot={{ r: 8 }} />
+					<Line
+						type="monotone"
+						dataKey="episodes"
+						stroke="#8884d8"
+						activeDot={{ r: 8 }}
+						strokeWidth={2}
+					/>
 				</LineChart>
 			</div>
 		</>
