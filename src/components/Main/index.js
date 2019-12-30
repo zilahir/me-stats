@@ -1,6 +1,6 @@
 /* eslint-disable react/no-array-index-key */
 /* eslint-disable no-console */
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import {
 	PieChart, Pie, Cell,
 } from 'recharts'
@@ -42,27 +42,29 @@ const Main = () => {
 	const dispatch = useDispatch()
 	const store = useStore()
 	const [genresData, setGenresData] = useState(null)
-	Promise.all([
-		getShowDetails(thisYearGenre),
-	]).then(result => {
-		dispatch(setShowDetails(result[0]))
-		const shows = store.getState().showDetails.showDetails
-		const genres = []
-		shows.forEach(currShow => {
-			currShow.genres.forEach(currGenres => {
-				genres.push(currGenres)
+	useEffect(() => {
+		Promise.all([
+			getShowDetails(thisYearGenre),
+		]).then(result => {
+			dispatch(setShowDetails(result[0]))
+			const shows = store.getState().showDetails.showDetails
+			const genres = []
+			shows.forEach(currShow => {
+				currShow.genres.forEach(currGenres => {
+					genres.push(currGenres)
+				})
 			})
+			let distinctGenres = genres.reduce((acc, curr) => {
+				acc[curr.name] = acc[curr.name] ? acc[curr.name] + 1 : 1
+				return acc
+			}, {})
+			distinctGenres = Object.keys(distinctGenres).map(currGenre => ({
+				name: currGenre,
+				count: distinctGenres[currGenre],
+			}))
+			setGenresData(distinctGenres)
 		})
-		let distinctGenres = genres.reduce((acc, curr) => {
-			acc[curr.name] = acc[curr.name] ? acc[curr.name] + 1 : 1
-			return acc
-		}, {})
-		distinctGenres = Object.keys(distinctGenres).map(currGenre => ({
-			name: currGenre,
-			count: distinctGenres[currGenre],
-		}))
-		setGenresData(distinctGenres)
-	})
+	}, [])
 	return (
 		<>
 			<div className={styles.chartContainer}>
