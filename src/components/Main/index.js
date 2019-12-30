@@ -130,79 +130,86 @@ const Main = () => {
 					</div>
 				</div>
 			</section>
-			<div className={styles.chartContainer}>
-				<PieChart
-					width={400}
-					height={400}
-				>
-					<Pie
-						data={genresData}
-						cx={180}
-						cy={200}
-						innerRadius={60}
-						outerRadius={120}
-						fill={baseColor}
-						paddingAngle={0}
-						dataKey="count"
-						label
-						isAnimationActive={false}
-					>
-						{
-							genresData ? genresData.map((entry, index) => <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />) : null
-						}
-					</Pie>
-				</PieChart>
-				<div className={styles.labelContainer}>
-					{
-						genresData
-							? (
-								genresData.map((curr, index) => (
-									<ColoredLabel key={`block-${index}`} color={COLORS[index % COLORS.length]}>
-										<p>
-											{curr.name}
-										</p>
-									</ColoredLabel>
-								))
-							)
-							: null
-					}
+			<section className={styles.section}>
+				<div className={styles.headerContainer}>
+					<h1 className={styles.header}>
+						lorem ipsum
+					</h1>
 				</div>
-			</div>
-			<div className={styles.chartContainer}>
-				<LineChart
-					width={900}
-					height={500}
-					data={mostViewedDaysData}
-					margin={{
-						top: 5, right: 30, left: 20, bottom: 5,
-					}}
-				>
-					<XAxis
-						dataKey="name"
-						tickFormatter={renderTick}
-						tick={{
-							stroke: baseColor,
-							strokeWidth: 1,
+				<div className={styles.chartContainer}>
+					<PieChart
+						width={400}
+						height={400}
+					>
+						<Pie
+							data={genresData}
+							cx={180}
+							cy={200}
+							innerRadius={60}
+							outerRadius={120}
+							fill={baseColor}
+							paddingAngle={0}
+							dataKey="count"
+							label
+							isAnimationActive={false}
+						>
+							{
+								genresData ? genresData.map((entry, index) => <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />) : null
+							}
+						</Pie>
+					</PieChart>
+					<div className={styles.labelContainer}>
+						{
+							genresData
+								? (
+									genresData.map((curr, index) => (
+										<ColoredLabel key={`block-${index}`} color={COLORS[index % COLORS.length]}>
+											<p>
+												{curr.name}
+											</p>
+										</ColoredLabel>
+									))
+								)
+								: null
+						}
+					</div>
+				</div>
+				<div className={styles.chartContainer}>
+					<LineChart
+						width={900}
+						height={500}
+						data={mostViewedDaysData}
+						margin={{
+							top: 5, right: 30, left: 20, bottom: 5,
 						}}
-						stroke={baseColor}
-						strokeWidth={2}
-					/>
-					<YAxis
-						tick={{
-							stroke: baseColor,
-							strokeWidth: 1,
-						}}
-					/>
-					<Tooltip />
-					<Line
-						type="monotone"
-						dataKey="episodes"
-						stroke={baseColor}
-						activeDot={{ r: 8 }}
-						strokeWidth={2}
-					/>
-				</LineChart>
-			</div>
+					>
+						<XAxis
+							dataKey="name"
+							tickFormatter={renderTick}
+							tick={{
+								stroke: baseColor,
+								strokeWidth: 1,
+							}}
+							stroke={baseColor}
+							strokeWidth={2}
+						/>
+						<YAxis
+							tick={{
+								stroke: baseColor,
+								strokeWidth: 1,
+							}}
+						/>
+						<Tooltip />
+						<Line
+							type="monotone"
+							dataKey="episodes"
+							stroke={baseColor}
+							activeDot={{ r: 8 }}
+							strokeWidth={2}
+						/>
+					</LineChart>
+				</div>
+			</section>
 		</>
 	)
 }
