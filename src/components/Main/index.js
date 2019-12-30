@@ -173,8 +173,21 @@ const Main = () => {
 					<XAxis
 						dataKey="name"
 						tickFormatter={renderTick}
+						tick={{
+							stroke: baseColor,
+							strokeWidth: 1,
+						}}
+						stroke={baseColor}
+						strokeWidth={2}
 					/>
-					<YAxis />
+					<YAxis
+						tick={{
+							stroke: baseColor,
+							strokeWidth: 1,
+						}}
+						stroke={baseColor}
+						strokeWidth={2}
+					/>
 					<Tooltip />
 					<Line
 						type="monotone"
