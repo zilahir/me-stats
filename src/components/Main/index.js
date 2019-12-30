@@ -1,5 +1,4 @@
 /* eslint-disable react/no-array-index-key */
-/* eslint-disable no-console */
 import React, { useState, useEffect } from 'react'
 import {
 	PieChart, Pie, Cell,
@@ -65,8 +64,7 @@ const Main = () => {
 			}))
 			setGenresData(distinctGenres)
 		})
-	}, [])
-	console.debug('genres', genresData)
+	}, [dispatch, store])
 	return (
 		<>
 			<div className={styles.chartContainer}>
