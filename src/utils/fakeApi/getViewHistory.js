@@ -37,7 +37,7 @@ export const watchHistory = {
 	},
 	getMostViewDays() {
 		const showHistory = this.getShowPlayCount()
-		const distinctDates = showHistory.reduce((acc, curr) => {
+		let distinctDates = showHistory.reduce((acc, curr) => {
 			curr.seasons.reduce((acc2, curr2) => {
 				curr2.episodes.reduce((acc3, curr3) => {
 					const thisDate = curr3.last_watched_at.split('T')
@@ -48,6 +48,10 @@ export const watchHistory = {
 			})
 			return acc
 		}, {})
+		distinctDates = Object.keys(distinctDates).map(key => ({
+			name: key,
+			counter: distinctDates[key],
+		}))
 		return distinctDates
 	},
 }

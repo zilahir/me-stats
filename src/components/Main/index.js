@@ -1,7 +1,7 @@
 /* eslint-disable react/no-array-index-key */
 import React, { useState, useEffect } from 'react'
 import {
-	PieChart, Pie, Cell,
+	PieChart, Pie, Cell, LineChart, Line, XAxis, YAxis, Legend, Tooltip,
 } from 'recharts'
 import styled from 'styled-components'
 import { useDispatch, useStore } from 'react-redux'
@@ -40,6 +40,7 @@ const Main = () => {
 	const store = useStore()
 	const [genresData, setGenresData] = useState(null)
 	const [thisYearShow, setThisYearShow] = useState(null)
+	const [mostViewedDaysData, setMostViewedDaysData] = useState(null)
 	useEffect(() => {
 		const thisYearGenre = watchHistory.getGenre()
 		setThisYearShow(watchHistory.getShowPlayCount())
@@ -63,8 +64,8 @@ const Main = () => {
 				count: distinctGenres[currGenre],
 			}))
 			setGenresData(distinctGenres)
-			// eslint-disable-next-line no-unused-vars
 			const mostViewDays = watchHistory.getMostViewDays()
+			setMostViewedDaysData(mostViewDays)
 		})
 	}, [dispatch, store])
 	return (
@@ -149,6 +150,22 @@ const Main = () => {
 							: null
 					}
 				</div>
+			</div>
+			<div className={styles.chartContainer}>
+				<LineChart
+					width={500}
+					height={300}
+					data={mostViewedDaysData}
+					margin={{
+						top: 5, right: 30, left: 20, bottom: 5,
+					}}
+				>
+					<XAxis dataKey="name" />
+					<YAxis />
+					<Tooltip />
+					<Legend />
+					<Line type="monotone" dataKey="counter" stroke="#8884d8" activeDot={{ r: 8 }} />
+				</LineChart>
 			</div>
 		</>
 	)
