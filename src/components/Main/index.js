@@ -1,7 +1,7 @@
 /* eslint-disable react/no-array-index-key */
 import React, { useState, useEffect } from 'react'
 import {
-	PieChart, Pie, Cell, LineChart, Line, XAxis, YAxis, Legend, Tooltip,
+	PieChart, Pie, Cell, LineChart, Line, XAxis, YAxis, Tooltip,
 } from 'recharts'
 import styled from 'styled-components'
 import { useDispatch, useStore } from 'react-redux'
@@ -153,8 +153,8 @@ const Main = () => {
 			</div>
 			<div className={styles.chartContainer}>
 				<LineChart
-					width={500}
-					height={300}
+					width={900}
+					height={500}
 					data={mostViewedDaysData}
 					margin={{
 						top: 5, right: 30, left: 20, bottom: 5,
@@ -163,7 +163,6 @@ const Main = () => {
 					<XAxis dataKey="name" />
 					<YAxis />
 					<Tooltip />
-					<Legend />
 					<Line type="monotone" dataKey="counter" stroke="#8884d8" activeDot={{ r: 8 }} />
 				</LineChart>
 			</div>
