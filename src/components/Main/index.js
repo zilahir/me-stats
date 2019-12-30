@@ -63,6 +63,8 @@ const Main = () => {
 				count: distinctGenres[currGenre],
 			}))
 			setGenresData(distinctGenres)
+			// eslint-disable-next-line no-unused-vars
+			const mostViewDays = watchHistory.getMostViewDays()
 		})
 	}, [dispatch, store])
 	return (

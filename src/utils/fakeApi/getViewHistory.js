@@ -35,4 +35,19 @@ export const watchHistory = {
 		}
 		return ids
 	},
+	getMostViewDays() {
+		const showHistory = this.getShowPlayCount()
+		const distinctDates = showHistory.reduce((acc, curr) => {
+			curr.seasons.reduce((acc2, curr2) => {
+				curr2.episodes.reduce((acc3, curr3) => {
+					const thisDate = curr3.last_watched_at.split('T')
+					acc[thisDate[0]] = acc[thisDate[0]] ? acc[thisDate[0]] + 1 : 1
+					return acc3
+				})
+				return acc2
+			})
+			return acc
+		}, {})
+		return distinctDates
+	},
 }
