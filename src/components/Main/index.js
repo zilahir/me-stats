@@ -198,6 +198,8 @@ const Main = () => {
 								stroke: baseColor,
 								strokeWidth: 1,
 							}}
+							stroke={baseColor}
+							strokeWidth={2}
 						/>
 						<Tooltip />
 						<Line
