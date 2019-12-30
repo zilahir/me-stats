@@ -42,7 +42,6 @@ export const watchHistory = {
 				curr2.episodes.reduce((acc3, curr3) => {
 					const thisDate = curr3.last_watched_at.split('T')
 					if (new Date(thisDate[0]).getFullYear() === currentDate.getFullYear()) {
-						// console.debug('thisDate', new Date(thisDate[0]).getFullYear())
 						acc[thisDate[0]] = acc[thisDate[0]] ? acc[thisDate[0]] + 1 : 1
 					}
 					return acc3
