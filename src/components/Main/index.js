@@ -72,7 +72,8 @@ const Main = () => {
 			const mostViewDays = watchHistory.getMostViewDays()
 			setMostViewedDaysData(mostViewDays)
 		})
-		setSumWatchData(watchHistory.getTotalPlayCount().sumLastYear)
+		setSumWatchData(watchHistory.getTotalPlayCount())
+		// console.debug(sumWatchData)
 	}, [dispatch, store])
 
 	function renderTick(tick) {
