@@ -73,7 +73,7 @@ const Main = () => {
 			setMostViewedDaysData(mostViewDays)
 		})
 		setSumWatchData(watchHistory.getTotalPlayCount())
-		// console.debug(sumWatchData)
+		// console.debug(watchHistory.getTotalPlayCount())
 	}, [dispatch, store])
 
 	function renderTick(tick) {
@@ -91,11 +91,18 @@ const Main = () => {
 				</div>
 				<div className={styles.chartContainer}>
 					<BarChart
-						width={150}
-						height={40}
+						width={50}
+						height={200}
 						data={sumWatchData}
+						// layout="vertical"
+						barGap={10}
 					>
-						<Bar dataKey="sum" fill="#8884d8" />
+						<XAxis dataKey="name" />
+						<Bar
+							dataKey="sum"
+							fill={baseColor}
+							background
+						/>
 					</BarChart>
 				</div>
 			</section>

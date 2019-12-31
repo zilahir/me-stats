@@ -73,11 +73,11 @@ export const watchHistory = {
 			sumLastYear += currShow.plays
 		})
 		const thisYear = {
-			name: currentDate.getFullYear(),
+			name: `${currentDate.getFullYear()}`.toString(),
 			sum,
 		}
 		const lastYear = {
-			name: currentDate.getFullYear() - 1,
+			name: `${currentDate.getFullYear() - 1}`.toString(),
 			sum: sumLastYear,
 		}
 		return [thisYear, lastYear]
