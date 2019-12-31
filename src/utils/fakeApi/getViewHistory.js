@@ -13,6 +13,10 @@ export const watchHistory = {
 		watchHistory.list.shows, c => new Date(c.last_watched_at).getFullYear()
 			=== currentDate.getFullYear(),
 	),
+	getShowHistoryLastYear: () => filter(
+		watchHistory.list.shows, c => new Date(c.last_watched_at).getFullYear()
+			=== currentDate.getFullYear() - 1,
+	),
 	getMovieHistory: () => filter(
 		watchHistory.list.movies, c => new Date(c.last_watched_at).getFullYear()
 			=== currentDate.getFullYear(),
@@ -56,5 +60,26 @@ export const watchHistory = {
 			episodes: distinctDates[key],
 		}))
 		return distinctDates
+	},
+	getTotalPlayCount() {
+		const showHistory = this.getShowPlayCount()
+		const prevYearHistory = this.getShowHistoryLastYear()
+		let sum = 0
+		let sumLastYear = 0
+		showHistory.forEach(currShow => {
+			sum += currShow.plays
+		})
+		prevYearHistory.forEach(currShow => {
+			sumLastYear += currShow.plays
+		})
+		const thisYear = {
+			name: currentDate.getFullYear(),
+			sum,
+		}
+		const lastYear = {
+			name: currentDate.getFullYear() - 1,
+			sum: sumLastYear,
+		}
+		return [thisYear, lastYear]
 	},
 }

@@ -1,7 +1,7 @@
 /* eslint-disable react/no-array-index-key */
 import React, { useState, useEffect } from 'react'
 import {
-	PieChart, Pie, Cell, LineChart, Line, XAxis, YAxis, Tooltip,
+	PieChart, Pie, Cell, LineChart, Line, XAxis, YAxis, Tooltip, BarChart, Bar,
 } from 'recharts'
 import styled from 'styled-components'
 import hexToRgba from 'hex-to-rgba'
@@ -45,6 +45,7 @@ const Main = () => {
 	const [genresData, setGenresData] = useState(null)
 	const [thisYearShow, setThisYearShow] = useState(null)
 	const [mostViewedDaysData, setMostViewedDaysData] = useState(null)
+	const [sumWatchData, setSumWatchData] = useState(0)
 	useEffect(() => {
 		const thisYearGenre = watchHistory.getGenre()
 		setThisYearShow(watchHistory.getShowPlayCount())
@@ -71,6 +72,7 @@ const Main = () => {
 			const mostViewDays = watchHistory.getMostViewDays()
 			setMostViewedDaysData(mostViewDays)
 		})
+		setSumWatchData(watchHistory.getTotalPlayCount().sumLastYear)
 	}, [dispatch, store])
 
 	function renderTick(tick) {
@@ -80,6 +82,22 @@ const Main = () => {
 	}
 	return (
 		<>
+			<section className={styles.section}>
+				<div className={styles.headerContainer}>
+					<h1 className={styles.header}>
+						meta stats
+					</h1>
+				</div>
+				<div className={styles.chartContainer}>
+					<BarChart
+						width={150}
+						height={40}
+						data={sumWatchData}
+					>
+						<Bar dataKey="sum" fill="#8884d8" />
+					</BarChart>
+				</div>
+			</section>
 			<section className={styles.section}>
 				<div className={styles.headerContainer}>
 					<h1 className={styles.header}>
