@@ -3,7 +3,8 @@ import { filter, orderBy } from 'lodash'
 import movies from '../movies.json'
 import shows from '../shows.json'
 
-const currentDate = new Date()
+const currentDate = new Date('2019')
+
 export const watchHistory = {
 	list: {
 		movies,
