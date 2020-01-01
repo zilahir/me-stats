@@ -81,6 +81,7 @@ const Main = () => {
 		const tooltip = `${date.toLocaleString('default', { month: 'long' })} ${date.getDate()}`
 		return tooltip
 	}
+
 	return (
 		<>
 			<section className={styles.section}>
@@ -91,13 +92,15 @@ const Main = () => {
 				</div>
 				<div className={styles.chartContainer}>
 					<BarChart
-						width={50}
+						width={150}
 						height={200}
 						data={sumWatchData}
-						// layout="vertical"
 						barGap={10}
 					>
-						<XAxis dataKey="name" />
+						<XAxis
+							dataKey="name"
+							interval={0}
+						/>
 						<Bar
 							dataKey="sum"
 							fill={baseColor}
