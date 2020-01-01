@@ -45,7 +45,7 @@ const Main = () => {
 	const [genresData, setGenresData] = useState(null)
 	const [thisYearShow, setThisYearShow] = useState(null)
 	const [mostViewedDaysData, setMostViewedDaysData] = useState(null)
-	const [sumWatchData, setSumWatchData] = useState(0)
+	const [sumWatchData, setSumWatchData] = useState([])
 	useEffect(() => {
 		const thisYearGenre = watchHistory.getGenre()
 		setThisYearShow(watchHistory.getShowPlayCount())
@@ -81,7 +81,6 @@ const Main = () => {
 		const tooltip = `${date.toLocaleString('default', { month: 'long' })} ${date.getDate()}`
 		return tooltip
 	}
-
 	return (
 		<>
 			<section className={styles.section}>
@@ -92,14 +91,16 @@ const Main = () => {
 				</div>
 				<div className={styles.chartContainer}>
 					<BarChart
-						width={150}
+						width={180}
 						height={200}
 						data={sumWatchData}
-						barGap={10}
+						barCategoryGap={10}
 					>
 						<XAxis
 							dataKey="name"
 							interval={0}
+							stroke={baseColor}
+							strokeWidth={2}
 						/>
 						<Bar
 							dataKey="sum"
@@ -107,6 +108,17 @@ const Main = () => {
 							background
 						/>
 					</BarChart>
+				</div>
+				<div className={styles.labelContainer}>
+					{
+						sumWatchData.map(sum => (
+							<ColoredLabel key={`sum-${sum}`} color={baseColor}>
+								<p>
+									{sum.sum}
+								</p>
+							</ColoredLabel>
+						))
+					}
 				</div>
 			</section>
 			<section className={styles.section}>
