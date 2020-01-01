@@ -6,6 +6,7 @@ section {
         .headerContainer {
             .header {
                 @include headerH1;
+                padding-bottom: 80px;
             }
         }
         .chartContainer {

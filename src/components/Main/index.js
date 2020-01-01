@@ -108,17 +108,17 @@ const Main = () => {
 							background
 						/>
 					</BarChart>
-				</div>
-				<div className={styles.labelContainer}>
-					{
-						sumWatchData.map(sum => (
-							<ColoredLabel key={`sum-${sum}`} color={baseColor}>
-								<p>
-									{sum.sum}
-								</p>
-							</ColoredLabel>
-						))
-					}
+					<div className={styles.labelContainer}>
+						{
+							sumWatchData.map(sum => (
+								<ColoredLabel key={`sum-${sum.sum}`} color={baseColor}>
+									<p>
+										{sum.sum}
+									</p>
+								</ColoredLabel>
+							))
+						}
+					</div>
 				</div>
 			</section>
 			<section className={styles.section}>
